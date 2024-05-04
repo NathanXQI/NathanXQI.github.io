@@ -21,7 +21,7 @@ I'm a Ph.D. student in <a href="https://www.polyu.edu.hk/sd/" target="_blank"> D
 ## Education
 - **2024-Present**  Ph.D. in Design, The HongKong Polytechnic University, HongKong SAR
 - **2022-2023** M.des. in Service Design, The HongKong Polytechnic University, HongKong SAR
--**2017-2022** B.fa. in Product Design, Central Academy of Fine Arts, China
+- **2017-2022** B.fa. in Product Design, Central Academy of Fine Arts, China
 
 <!--
 ## Awards
