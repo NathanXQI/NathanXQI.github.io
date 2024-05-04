@@ -23,6 +23,10 @@ I'm a Ph.D. student in <a href="https://www.polyu.edu.hk/sd/" target="_blank"> D
 - **2022-2023** M.des. in Service Design, The HongKong Polytechnic University, HongKong SAR
 - **2017-2022** B.fa. in Product Design, Central Academy of Fine Arts, China
 
+## Teaching
+- **2302040**  <stronger>Transdisciplinary Innovation Design 2024,</stronger> School of Design, Central Academy of Fine Arts
+
+
 <!--
 ## Awards
 - **[May. 2023]** <a href="https://gsas.nyu.edu/admissions/financial-aid/graduate-school-fellowships-and-assistantships.html" target="_blank">*MacCracken Awards*</a> for outstanding research and activities
