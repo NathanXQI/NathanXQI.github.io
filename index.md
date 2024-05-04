@@ -21,7 +21,7 @@ I'm a Ph.D. student in <a href="https://www.polyu.edu.hk/sd/" target="_blank"> D
 ## Education
 - **2024-Present**  Ph.D. in Design, The HongKong Polytechnic University, HongKong SAR, China
 - **2022-2023** M.des. in Service Design, The HongKong Polytechnic University, HongKong SAR, China
-- **2017-2022** B.fa. in Product Design, Central Academy of Fine Arts, China
+- **2017-2022** B.fa. in Product Design, Central Academy of Fine Arts, Beijing, China
 
 ## Teaching
 - **2024** Transdisciplinary Innovation Design (2302040), School of Design, Central Academy of Fine Arts
@@ -37,6 +37,7 @@ I'm a Ph.D. student in <a href="https://www.polyu.edu.hk/sd/" target="_blank"> D
 <!--
 {% include_relative _includes/publications.md %}
 {% include_relative _includes/talks.md %}
+{% include_relative _includes/talks2.md %}
 {% include_relative _includes/services.md %}
 -->
 
