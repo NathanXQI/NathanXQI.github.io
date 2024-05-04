@@ -40,7 +40,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://link.springer.com/chapter/10.1007/978-3-031-42283-6_10">Awayvirus: A Playful and Tangible Approach to Improve Children’s Hygiene Habits in Family Education</a></div>
     <div class="author"><strong>Xiang Qi,</strong> Yaxiong Lei, Shijing He, Shuxin Cheng</div>
-    <div class="periodical"><em>IFIP Conference on Human-Computer Interaction <strong>(INTERACT)</strong>, Aug. 2023.</em></div>
+    <div class="periodical"><em>IFIP Conference on Human-Computer Interaction <strong>(INTERACT'23)</strong>, Aug. 2023.</em></div>
     <div class="links">
      <a href="https://arxiv.org/pdf/2306.06534.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
 <!--
