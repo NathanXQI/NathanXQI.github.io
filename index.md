@@ -19,8 +19,8 @@ I'm a Ph.D. student in <a href="https://www.polyu.edu.hk/sd/" target="_blank"> D
 
 
 ## Education
-- **2024-Present**  Ph.D. in Design, The HongKong Polytechnic University, HongKong SAR
-- **2022-2023** M.des. in Service Design, The HongKong Polytechnic University, HongKong SAR
+- **2024-Present**  Ph.D. in Design, The HongKong Polytechnic University, HongKong SAR, China
+- **2022-2023** M.des. in Service Design, The HongKong Polytechnic University, HongKong SAR, China
 - **2017-2022** B.fa. in Product Design, Central Academy of Fine Arts, China
 
 ## Teaching
@@ -32,9 +32,9 @@ I'm a Ph.D. student in <a href="https://www.polyu.edu.hk/sd/" target="_blank"> D
 - **[May. 2023]** <a href="https://gsas.nyu.edu/admissions/financial-aid/graduate-school-fellowships-and-assistantships.html" target="_blank">*MacCracken Awards*</a> for outstanding research and activities
 -->
 
-<!-- {% include_relative _includes/publications.md %} -->
+{% include_relative _includes/publications.md %}
 
-<!--{% include_relative _includes/projects.md %} -->
+{% include_relative _includes/projects.md %}
 
 <!--{% include_relative _includes/talks.md %} -->
 
