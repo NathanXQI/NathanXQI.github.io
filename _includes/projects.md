@@ -14,7 +14,7 @@
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://programs.sigchi.org/chi/2024/program/content/147467">Parent-Child Joint Media Engagement within HCI: A Scoping Analysis of the Research Landscape</a></div>
-    <div class="author">Junnan Yu,<strong> Xiang Qi,</div>strong> & Siqi Yang</div>
+    <div class="author">Junnan Yu,<strong> Xiang Qi,</strong> & Siqi Yang</div>
     <div class="periodical"><em>In Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems (CHI '24)</strong>, May. 2024.</em></div>
     <div class="links">
     <a href="https://programs.sigchi.org/chi/2024/program/content/147467" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
