@@ -50,7 +50,6 @@
       <a href="assets/files/KTensors.bib" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTeX</a>
       <strong><i style="color:#7b5aa6">arXiv.org</i></strong> -->
     </div>
-  </div>
 </div>
 </li>
 -->
