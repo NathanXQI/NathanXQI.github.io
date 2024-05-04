@@ -28,7 +28,7 @@
 </div>
 </li>
 
-
+<!--
 <li>
 <div class="pub-row">
 
@@ -41,8 +41,6 @@
     <div class="title"><a href="">On the Inference of Confounders for Mediation Analysis</a></div>
     <div class="author"><strong>Hanchao Zhang, Thaddeus Tarpey</strong></div>
     <div class="periodical"><em>arXiv <strong>(arXiv)</strong>, Jun. 2024.</em></div>
-    
-<!--
     <div class="links">
     <!-- <a href="https://arxiv.org/abs/2306.06534" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
       <a href="https://arxiv.org/pdf/2306.06534.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
