@@ -14,8 +14,8 @@
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://link.springer.com/chapter/10.1007/978-3-031-42283-6_10">Awayvirus: A Playful and Tangible Approach to Improve Children’s Hygiene Habits in Family Education</a></div>
-    <div class="author"><strong>Xiang Qi, Yaxiong Lei, Shijing He, Shuxin Cheng</strong></div>
-    <div class="periodical"><em>INTERACT<strong>(arXiv)</strong>, Aug. 2023.</em></div>
+    <div class="author"><strong>Xiang Qi,</strong> Yaxiong Lei, Shijing He, Shuxin Cheng</div>
+    <div class="periodical"><em>INTERACT</strong>, Aug. 2023.</em></div>
     <div class="links">
     <a href="https://arxiv.org/abs/2306.06534" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
       <a href="https://arxiv.org/pdf/2306.06534.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
@@ -59,18 +59,20 @@
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/OCS.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">AHI</abbr>
+    <abbr class="badge">INTERACT</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://americanhealth.jhu.edu/open-case-studies" target="_blank">Open Case Studies</a></div>
-    <div class="author">Stephanie Hicks, Leah Jager, Margaret Taub, Carrie Wright, John Muschelli, Lyla Atta, Michael Breshock, Qier Meng, Alexandra Stephens, <strong>Hanchao Zhang</strong>, and etc. </div>
-    <div class="periodical"><em>the Johns Hopkins University, and Bloomberg American Health Initiative.</em></div>
+    <div class="title"><a href="https://link.springer.com/chapter/10.1007/978-3-031-42283-6_10">Awayvirus: A Playful and Tangible Approach to Improve Children’s Hygiene Habits in Family Education</a></div>
+    <div class="author"><strong>Xiang Qi,</strong> Yaxiong Lei, Shijing He, Shuxin Cheng</div>
+    <div class="periodical"><em>INTERACT</strong>, Aug. 2023.</em></div>
+<!--
     <div class="links">
       <a href="https://americanhealth.jhu.edu/open-case-studies" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
       <a href="https://www.opencasestudies.org" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
       <a href="https://github.com/orgs/opencasestudies/teams/jhu-research-assistants" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">GitHub</a>
       <a href="https://www.opencasestudies.org" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Contact</a>
+-->
     </div>
   </div>
 </div>
