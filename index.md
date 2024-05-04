@@ -24,7 +24,7 @@ I'm a Ph.D. student in <a href="https://www.polyu.edu.hk/sd/" target="_blank"> D
 - **2017-2022** B.fa. in Product Design, Central Academy of Fine Arts, China
 
 ## Teaching
-- **2302040**  <stronger>Transdisciplinary Innovation Design 2024,</stronger> School of Design, Central Academy of Fine Arts
+- **2024** Transdisciplinary Innovation Design (2302040), School of Design, Central Academy of Fine Arts
 
 
 <!--
