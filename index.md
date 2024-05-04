@@ -33,9 +33,11 @@ I'm a Ph.D. student in <a href="https://www.polyu.edu.hk/sd/" target="_blank"> D
 -->
 <!-- {% include_relative _includes/publications.md %} -->
 {% include_relative _includes/projects.md %}
+
 {% comment %}
 {% include_relative _includes/talks.md %}
 {% endcomment %}
+
 <!--
 ## Collaboration
 <!-- - **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
@@ -45,7 +47,11 @@ I'm a Ph.D. student in <a href="https://www.polyu.edu.hk/sd/" target="_blank"> D
 - **[Aug. 2021]** <a href="https://www.jmcp.org/doi/full/10.18553/jmcp.2021.27.10.1482" target="_blank">*Validation of EHR medication fill data obtained through electronic linkage with pharmacies*</a> has been accepted by the **Journal of Managed Care & Specialty Pharmacy**.
 - **[Jan. 2021]** <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/jocd.13486" target="_blank">*Quantitative evaluation of rejuvenation treatment of nasolabial fold wrinkles by regression model and 3D photography*</a> has been accepted by the **Journal of Cosmetic Dermatology**.
 -->
+
+{% comment %}
 {% include_relative _includes/services.md %}
+{% endcomment %}
+
 <!--
 ## Resources
 - <a href="https://github.com/Hanchao-Zhang/LeetCode-Prep/blob/main/main.pdf" target="_blank">*A Coding Question Prep*</a> by Hanchao Zhang
