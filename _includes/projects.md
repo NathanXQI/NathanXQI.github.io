@@ -27,7 +27,8 @@
     </div>
     <li>
 >--
-
+    </div>
+    </li>
 
 <li>
 <div class="pub-row">
@@ -51,7 +52,9 @@
       <strong><i style="color:#7b5aa6">arXiv.org</i></strong>
     </div>
 >--
-
+  </div>
+      </div>
+    </li>
 
 
   
