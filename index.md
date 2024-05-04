@@ -33,7 +33,8 @@ I'm a Ph.D. student in <a href="https://www.polyu.edu.hk/sd/" target="_blank"> D
 -->
 <!-- {% include_relative _includes/publications.md %} -->
 {% include_relative _includes/projects.md %}
-{% include_relative _includes/talks.md %}
+<!-- {% include_relative _includes/talks.md %} -->
+
 <!--
 ## Collaboration
 <!-- - **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
