@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 <!-- I'm a <a href="https://med.nyu.edu/departments-institutes/population-health/divisions-sections-centers/biostatistics/" target="_blank"> Statistics</a> Ph.D. candidate at <a href="https://www.nyu.edu/" target="_blank"> New York University</a>, -->
-I'm a Ph.D. student in <a href="https://www.polyu.edu.hk/sd/" target="_blank"> Design </a> at <a href="https://www.polyu.edu.hk" target="_blank"> The HongKong Polytechnic University</a>,
+I'm a Ph.D. student in <a href="https://www.polyu.edu.hk/sd/" target="_blank"> Design </a> at <a href="https://www.polyu.edu.hk" target="_blank"> The HongKong Polytechnic University</a>.
 <!-- 's <a href="https://med.nyu.edu/" target="_blank"> Grossman School of Medicine</a> -->
 <!-- , specifically within the <a href="https://med.nyu.edu/research/sackler-institute-graduate-biomedical-sciences/" target="_blank"> Vilcek institute of Biomedical Sciences</a> and the Department of <a href="https://med.nyu.edu/departments-institutes/population-health/" target="_blank"> Population Health</a>. I am advised by Dr.  --> I am advised by Dr. <a href="https://scholar.google.com/citations?user=QB0mrfwAAAAJ&hl=en&oi=ao" target="_blank"> Junan Yu </a> in <a href="https://www.littledesign.org/about-us" target="_blank"> the Little Design Lab </a>. I conduct research in the fields of Human-Computer Interaction (HCI) and Design. My current research explores how to develop technologies to improve children's mental health literacy with stakeholders, such as parents in the family context, and participatory design in HCI.
 
