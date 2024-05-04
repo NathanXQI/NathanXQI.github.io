@@ -18,16 +18,14 @@
     <div class="author">Junnan Yu, <strong>Xiang Qi</strong>, & Siqi Yang </div>
     <div class="periodical"><em>In Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems (CHI '24)</em></div>
 
-    
+<!--   
     <div class="links">
       <a href="https://americanhealth.jhu.edu/open-case-studies" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
       <a href="https://www.opencasestudies.org" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
       <a href="https://github.com/orgs/opencasestudies/teams/jhu-research-assistants" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">GitHub</a>
       <a href="https://www.opencasestudies.org" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Contact</a>
     </div>
-  </div>
-</div>
-</li>
+>--
 
 
 <li>
