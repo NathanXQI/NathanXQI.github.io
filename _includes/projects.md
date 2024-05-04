@@ -14,9 +14,11 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://americanhealth.jhu.edu/open-case-studies" target="_blank">Parent-Child Joint Media Engagement within HCI: A Scoping Analysis of the Research Landscape</a></div>
-    <div class="author">Stephanie Hicks, Leah Jager, Margaret Taub, Carrie Wright, John Muschelli, Lyla Atta, Michael Breshock, Qier Meng, Alexandra Stephens, <strong>Hanchao Zhang</strong>, and etc. </div>
-    <div class="periodical"><em>the Johns Hopkins University, and Bloomberg American Health Initiative.</em></div>
+    <div class="title"><a href="https://programs.sigchi.org/chi/2024/program/content/147467" target="_blank">Parent-Child Joint Media Engagement within HCI: A Scoping Analysis of the Research Landscape</a></div>
+    <div class="author">Junnan Yu, <strong>Xiang Qi</strong>, & Siqi Yang </div>
+    <div class="periodical"><em>In Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems (CHI '24)</em></div>
+
+    
     <div class="links">
       <a href="https://americanhealth.jhu.edu/open-case-studies" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
       <a href="https://www.opencasestudies.org" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
