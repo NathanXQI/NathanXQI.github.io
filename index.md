@@ -31,12 +31,6 @@ I'm a Ph.D. student in <a href="https://www.polyu.edu.hk/sd/" target="_blank"> D
 ## Awards
 - **[May. 2023]** <a href="https://gsas.nyu.edu/admissions/financial-aid/graduate-school-fellowships-and-assistantships.html" target="_blank">*MacCracken Awards*</a> for outstanding research and activities
 -->
-<!-- {% include_relative _includes/publications.md %} -->
-{% include_relative _includes/projects.md %}
-
-{% comment %}
-{% include_relative _includes/talks.md %}
-{% endcomment %}
 
 <!--
 ## Collaboration
