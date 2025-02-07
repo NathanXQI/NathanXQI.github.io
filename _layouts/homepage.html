@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="{{ site.lang | default: " en-US" }}">
+<html lang="{{ site.lang | default: 'en-US' }}">
 
 <head>
   <title>{{ site.title }}</title>
@@ -8,9 +8,11 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="description" content="{{ site.description }}">
+  
   {% if site.keywords %}  
   <meta name="keywords" content="{{ site.keywords }}">
   {% endif %}
+  
   {% if site.canonical %}
   <link rel="canonical" href="{{ site.canonical }}" />
   {% endif %}
@@ -19,22 +21,20 @@
   <link rel="icon" media="(prefers-color-scheme:light)" href="{{ site.favicon }}" type="image/png" />
   <script src="./assets/js/favicon-switcher.js" type="application/javascript"></script>
 
-  <link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css
-    integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin=anonymous>
-  <link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css
-    integrity="sha256-+N4/V/SbAFiW1MPBCXnfnP9QSN3+Keu+NlB+0ev/YKQ=" crossorigin=anonymous>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" 
+    integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css" 
+    integrity="sha256-+N4/V/SbAFiW1MPBCXnfnP9QSN3+Keu+NlB+0ev/YKQ=" crossorigin="anonymous">
 
   <link rel="stylesheet" href="./assets/css/style.css">
   <link rel="stylesheet" href="./assets/css/publications.css">
-
 </head>
 
 <body>
   <div class="wrapper">
     <header>
-
       {% if site.avatar %}
-      <a class="image avatar"><img src="{{ site.avatar }}" alt="avatar" /> </a>
+      <a class="image avatar"><img src="{{ site.avatar }}" alt="avatar" /></a>
       {% endif %}
       <br>
       {% if site.logo %}
@@ -47,24 +47,24 @@
       {% endif %}
 
       {% if site.position %}
-      <position style="font-size:1.10rem;">{{ site.position }}</position>
+      <span style="font-size:1.10rem;">{{ site.position }}</span>
       <br>
       {% endif %}
       {% if site.subposition %}
       <a href="{{ site.subposition_link }}" class="no-color" rel="noopener" target="_blank">
-        <position style="font-size:0.95rem">{{ site.subposition }}</position>
+        <span style="font-size:0.95rem;">{{ site.subposition }}</span>
       </a>
       <br>
       {% endif %}
       {% if site.subaffiliation %}
       <a href="{{ site.subaffiliation_link }}" rel="noopener" target="_blank">
-        <autocolor>{{ site.subaffiliation }},</autocolor>
+        <span>{{ site.subaffiliation }},</span>
       </a>
       <br>
       {% endif %}
       {% if site.affiliation %}
       <a href="{{ site.affiliation_link }}" rel="noopener" target="_blank">
-        <autocolor>{{ site.affiliation }}</autocolor>
+        <span>{{ site.affiliation }}</span>
       </a>
       <br>
       {% endif %}
@@ -74,10 +74,8 @@
       </a>
       {% endif %}
       {% if site.email %}
-      <a href="mailto: {{ site.email }}" style="color:#6d6d6d">
-        <email>
-          {{ site.email }}
-        </email>
+      <a href="mailto:{{ site.email }}" style="color:#6d6d6d">
+        <span>{{ site.email }}</span>
       </a>
       {% endif %}
 
@@ -115,25 +113,22 @@
         {% endif %}
       </div>
       <br>
-
     </header>
+    
     <section>
-
       {{ content }}
-
       <br>
-
       {% if site.enable_footnote %}
       <p><small>Powered by Jekyll and <a href="https://github.com/yaoyao-liu/minimal-light" target="_blank"
             rel="noopener">Minimal Light</a> theme. Edited by Hanchao Zhang.</small></p>
       {% endif %}
-
     </section>
-    <footer>
 
-    </footer>
+    <footer></footer>
   </div>
-  <script src="{{ " /assets/js/scale.fix.js" | relative_url }}"></script>
+
+  <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
+
   {% if site.google_analytics %}
   <script>
     (function (i, s, o, g, r, a, m) {
