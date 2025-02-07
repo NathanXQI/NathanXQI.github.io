@@ -12,7 +12,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://drive.google.com/file/d/1zr4W045sUZ0ztdD8Y8W8kgK-GOmdMJLE/view?usp=sharing">Participatory Design in Human-Computer Interaction: Cases, Characteristics, and Lessons</a></div>
     <div class="author"><strong>Xiang Qi,</strong> Junnan Yu</div>
-    <div class="periodical"><em>In Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems <strong>(CHI'25)</strong>, May. 2025.</em></div>
+    <div class="periodical"><em>In Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems <strong>(CHI'25)</strong>, May. 2025.</em></div>
     <div class="links">
     
 -->
