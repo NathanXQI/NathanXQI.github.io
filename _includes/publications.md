@@ -14,7 +14,8 @@
     <div class="author"><strong>Xiang Qi,</strong> Junnan Yu</div>
     <div class="periodical"><em>In Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems <strong>(CHI'25)</strong>, May. 2025.</em></div>
     <div class="links">
-    
+    <a href="https://drive.google.com/file/d/1zr4W045sUZ0ztdD8Y8W8kgK-GOmdMJLE/view?usp=sharing" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <!--
 -->
     </div>
   </div>
@@ -36,11 +37,7 @@
     <div class="links">
     <a href="https://programs.sigchi.org/chi/2024/program/content/147467" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
   <!--
-      <a href="https://arxiv.org/abs/2306.06534" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
-      <a href="https://github.com/Hanchao-Zhang/KTensors" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">GitHub</a>
-      <a href="https://pypi.org/project/KTensors/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Package</a>
-      <a href="assets/files/KTensors.bib" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTeX</a>
-      <strong><i style="color:#7b5aa6">arXiv.org</i></strong>
+     
   -->
     </div>
   </div>
