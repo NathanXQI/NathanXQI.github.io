@@ -278,7 +278,7 @@ papertitle {
 
 .image.avatar img {
     border-radius: 0%!important;
-    width: 90%;
+    width: 180px !important;
     padding: 50px;
     border: 2px solid #ddd;
     padding: 8px;
@@ -478,7 +478,7 @@ th {
 }
 
 img {
-  max-width: 100%;
+  max-width: unset;
 }
 
 header {
@@ -628,13 +628,15 @@ screen and (max-width: 960px) {
   }
 
 
- .image.avatar img {
-    border-radius: 0%;  
-    width: 180px; 
-    height: 180px;  
-    object-fit: cover;  
+.image.avatar img {
+    border-radius: 0% !important;
+    width: 180px !important; 
+    height: 180px !important; 
+    object-fit: cover !important;
     padding: 5px;
+    display: block;
 }
+
 
 
   .image.logo img {
@@ -703,6 +705,7 @@ screen and (max-width: 480px) {
   .image.avatar img {
     border-radius: 0%;
     width: 180px;
+    object-fit: cover;
     padding: 3px;
   }
 
