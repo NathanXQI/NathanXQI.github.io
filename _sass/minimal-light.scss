@@ -628,11 +628,14 @@ screen and (max-width: 960px) {
   }
 
 
-  .image.avatar img {
-    border-radius: 0%;
-    width: 180px;
+ .image.avatar img {
+    border-radius: 0%;  
+    width: 180px; 
+    height: 180px;  
+    object-fit: cover;  
     padding: 5px;
-  }
+}
+
 
   .image.logo img {
     border-radius: 0%;
