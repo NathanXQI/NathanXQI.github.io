@@ -26,6 +26,8 @@ I'm a Ph.D. student in <a href="https://www.polyu.edu.hk/sd/" target="_blank"> D
 ## Teaching
 - **2024** Transdisciplinary Innovation Design (2302040), School of Design, Central Academy of Fine Arts
 
+## Publications
+{% include_relative _includes/publications.md %}
 
 <!--
 ## Awards
@@ -42,9 +44,7 @@ I'm a Ph.D. student in <a href="https://www.polyu.edu.hk/sd/" target="_blank"> D
 - **[Jan. 2021]** <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/jocd.13486" target="_blank">*Quantitative evaluation of rejuvenation treatment of nasolabial fold wrinkles by regression model and 3D photography*</a> has been accepted by the **Journal of Cosmetic Dermatology**.
 -->
  
-{% comment %}
-{% include_relative _includes/publications.md %}
-{% endcomment %}
+ 
  
 <!--
 ## Resources
