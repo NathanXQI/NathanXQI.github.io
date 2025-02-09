@@ -20,7 +20,7 @@ I'm advised by <a href="https://scholar.google.com/citations?user=QB0mrfwAAAAJ&h
 - **2017-2022** B.Fa. in Product Design, Central Academy of Fine Arts, Beijing, China
 
 ## Teaching
-- **2024** 2302040 Transdisciplinary Innovation Design, School of Design, Central Academy of Fine Arts
+- **2024** [2302040] Transdisciplinary Innovation Design, School of Design, Central Academy of Fine Arts
 
 ## Publications (Selected)
 {% include_relative _includes/publications.md %}
