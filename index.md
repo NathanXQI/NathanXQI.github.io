@@ -9,13 +9,13 @@ I'm advised by <a href="https://scholar.google.com/citations?user=QB0mrfwAAAAJ&h
  
  
 ## Research Interests
-- **Children's Well-being:**  Children's mental health, healthcare-related education
+- **Children's Well-being:**  Children's mental health, Healthcare-related education
 - **Design Methodology:**  Design methods, such as Participatory Design and Co-Design
  
 
 
 ## Education
-- **2024-Present**  Ph.D. in Design, The HongKong Polytechnic University, Hong Kong, China
+- **2024-Present**  Ph.D. in Design, The Hong Kong Polytechnic University, Hong Kong, China
 - **2022-2023** M.Des. in Service Design, The HongKong Polytechnic University, Hong Kong, China
 - **2017-2022** B.Fa. in Product Design, Central Academy of Fine Arts, Beijing, China
 
