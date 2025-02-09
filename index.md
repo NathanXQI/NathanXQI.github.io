@@ -15,9 +15,9 @@ I am advised by <a href="https://scholar.google.com/citations?user=QB0mrfwAAAAJ&
 
 
 ## Education
-- **2024-Present**  Ph.D. in Design, The HongKong Polytechnic University, HongKong SAR, China
-- **2022-2023** M.des. in Service Design, The HongKong Polytechnic University, HongKong SAR, China
-- **2017-2022** B.fa. in Product Design, Central Academy of Fine Arts, Beijing, China
+- **2024-Present**  Ph.D. in Design, The HongKong Polytechnic University, Hong Kong, China
+- **2022-2023** M.Des. in Service Design, The HongKong Polytechnic University, Hong Kong, China
+- **2017-2022** B.Fa. in Product Design, Central Academy of Fine Arts, Beijing, China
 
 ## Teaching
 - **2024** Transdisciplinary Innovation Design (2302040), School of Design, Central Academy of Fine Arts
