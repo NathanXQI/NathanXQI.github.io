@@ -3,19 +3,15 @@ layout: homepage
 ---
 
 ## About Me
-<!-- I'm a <a href="https://med.nyu.edu/departments-institutes/population-health/divisions-sections-centers/biostatistics/" target="_blank"> Statistics</a> Ph.D. candidate at <a href="https://www.nyu.edu/" target="_blank"> New York University</a>, -->
-I'm a Ph.D. student in <a href="https://www.polyu.edu.hk/sd/" target="_blank"> Design </a> at <a href="https://www.polyu.edu.hk" target="_blank"> The HongKong Polytechnic University</a>.
-<!-- 's <a href="https://med.nyu.edu/" target="_blank"> Grossman School of Medicine</a> -->
-<!-- , specifically within the <a href="https://med.nyu.edu/research/sackler-institute-graduate-biomedical-sciences/" target="_blank"> Vilcek institute of Biomedical Sciences</a> and the Department of <a href="https://med.nyu.edu/departments-institutes/population-health/" target="_blank"> Population Health</a>. I am advised by Dr.  --> I am advised by Dr. <a href="https://scholar.google.com/citations?user=QB0mrfwAAAAJ&hl=en&oi=ao" target="_blank"> Junan Yu </a> in <a href="https://www.littledesign.org/about-us" target="_blank"> the Little Design Lab </a>. I conduct research in the fields of Human-Computer Interaction (HCI) and Design. My current research explores how to develop technologies to improve children's mental health literacy with stakeholders, such as parents in the family context, and Participatory Design in HCI.
+I'm a first year Ph.D. student in <a href="https://www.polyu.edu.hk/sd/" target="_blank"> Design </a> at <a href="https://www.polyu.edu.hk" target="_blank"> The HongKong Polytechnic University</a>.
+I am advised by <a href="https://scholar.google.com/citations?user=QB0mrfwAAAAJ&hl=en&oi=ao" target="_blank"> Dr. Junan Yu </a> in <a href="https://www.littledesign.org/about-us" target="_blank"> the Little Design Group </a>. I take and inerdisciplinary approach and conduct research in the fields of Human-Computer Interaction (HCI), Child-Computer Interaction (CCI) and Design. My research has been published on the venues for Human-Computing Interaction, such as ACM CHI conference.
 
-
-<!--
+ 
+ 
 ## Research Interests
-- **Causal Inference and Precision Medicine:** causal subpopulation identification, mediation analysis, personalized recommendation based on treatment effect and generated effect modifiers
-- **Machine Learning:** fairness ML, semi-supervised learning
-- **Manifold Learning and Metric Learning:** positive semi-definite manifold learning and metric learning
-- **Functional Data Analysis:** functional regression, and clustering methods
--->
+- **Chilren Well-being:**  Children's mental health, Healthcare related education
+- **Design Methodology:**  Design methods, such as Participatory Design, Co-Design
+ 
 
 
 ## Education
@@ -26,7 +22,7 @@ I'm a Ph.D. student in <a href="https://www.polyu.edu.hk/sd/" target="_blank"> D
 ## Teaching
 - **2024** Transdisciplinary Innovation Design (2302040), School of Design, Central Academy of Fine Arts
 
-## Publications
+## Publications (Selected)
 {% include_relative _includes/publications.md %}
 
 <!--
