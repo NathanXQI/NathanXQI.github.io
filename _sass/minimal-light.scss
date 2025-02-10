@@ -277,11 +277,13 @@ papertitle {
 }
 
 .image.avatar img {
-    border-radius: 0%!important;
     width: 180px !important;
-    padding: 50px;
+    height: 180px !important;  /* 确保高度与宽度一致 */
+    border-radius: 10px !important;  /* 设置圆角，可根据需要调整数值 */
+    object-fit: cover !important;      /* 保持图片比例，填充整个容器 */
     border: 2px solid #ddd;
     box-shadow: 0 -1px 5px 1px rgba(200, 200, 200, 0.3);
+    padding: 0;  /* 如有多余的 padding，可以去除 */
 }
 
 .image.logo img {
