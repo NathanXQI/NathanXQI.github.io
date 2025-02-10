@@ -4,10 +4,10 @@
 body {
   background-color: #fff;
   padding: 0px;
-  font: 16.0px/1.5 Crimson Pro, serif;
+  font: 16px/1.5 Crimson Pro, serif;
   color: #595959;
   font-weight: 400;
-  margin: 0
+  margin: 0;
 }
 
 .pub-row {
@@ -24,12 +24,12 @@ a.no-color {
   height: 2.4rem;
   width: 2.4rem;
   background-color: transparent;
-  color: #008D06 !important;
+  color: #008d06 !important;
   border-radius: 100%;
   text-align: center;
   font-size: 1.15rem;
   line-height: 0rem;
-  margin-right: 1rem
+  margin-right: 1rem;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -39,13 +39,13 @@ a.no-color {
 }
 
 .social-icons a:last-child {
-  margin-right: 0
+  margin-right: 0;
 }
 
 .social-icons a:hover {
   background-color: transparent;
   color: transparent;
-  transform: scale(1.3)
+  transform: scale(1.3);
 }
 
 /*
@@ -66,13 +66,13 @@ a.no-color {
 
 @media (prefers-color-scheme: dark) {
   .social-icons a:last-child {
-    margin-right: 0
+    margin-right: 0;
   }
 
   .social-icons a:hover {
     background-color: transparent;
     color: black;
-    transform: scale(1.2)
+    transform: scale(1.2);
   }
 
   /*
@@ -85,7 +85,7 @@ a.no-color {
         background: transparent;
         transition: width .5s ease, background-color .5s ease;
       }
-      
+
     .social-icons a:hover:after {
         width: 100%;
         background: #3A7D44;
@@ -98,7 +98,7 @@ a.no-color {
   border-radius: 3.6rem;
   cursor: pointer;
   display: inline-block;
-  font-size: 2.0rem;
+  font-size: 2rem;
   height: 3.6rem;
   line-height: 3.6rem;
   margin: 0 5px;
@@ -108,7 +108,7 @@ a.no-color {
   -moz-user-select: none;
   -ms-user-select: none;
   user-select: none;
-  width: 3.6rem
+  width: 3.6rem;
 }
 
 .icon-button span {
@@ -123,35 +123,35 @@ a.no-color {
   -moz-transition: all 0.3s;
   -o-transition: all 0.3s;
   transition: all 0.3s;
-  width: 0
+  width: 0;
 }
 
 .icon-button:hover span {
   width: 3.6rem;
   height: 3.6rem;
   border-radius: 3.6rem;
-  margin: -1.8rem
+  margin: -1.8rem;
 }
 
 .twitter span {
-  background-color: #355F2E
+  background-color: #355f2e;
 }
 
 .facebook span {
-  background-color: #355F2E
+  background-color: #355f2e;
 }
 
 .linkedin span {
-  background-color: #355F2E
+  background-color: #355f2e;
 }
 
 .github span {
-  background-color: #355F2E
+  background-color: #355f2e;
 }
 
 email {
   font-size: 14px;
-  font-family: "Ubuntu Mono";
+  font-family: 'Ubuntu Mono';
 }
 
 .icon-button i {
@@ -167,30 +167,30 @@ email {
   -o-transition: all 0.3s;
   transition: all 0.3s;
   width: 3.6rem;
-  z-index: 10
+  z-index: 10;
 }
 
 .icon-button .icon-twitter {
-  color: #355F2E
+  color: #355f2e;
 }
 
 .icon-button .icon-facebook {
-  color: #355F2E
+  color: #355f2e;
 }
 
 .icon-button .icon-github {
-  color: #355F2E
+  color: #355f2e;
 }
 
 .icon-button .icon-linkedin {
-  color: #355F2E
+  color: #355f2e;
 }
 
 .icon-button:hover .icon-twitter,
 .icon-button:hover .icon-facebook,
 .icon-button:hover .icon-github,
 .icon-button:hover .icon-linkedin {
-  color: white
+  color: white;
 }
 
 // autocolor {
@@ -240,9 +240,7 @@ papertitle {
   papertitle {
     color: #eeeff0;
   }
-
 }
-
 
 .image {
   border-radius: 0 !important;
@@ -271,19 +269,17 @@ papertitle {
 //   border-radius: 0%;
 // }
 
-
 .image.avatar:before {
   display: none;
 }
 
 .image.avatar img {
-    display: block; /* 避免行内元素影响 */
-    width: 180px !important;
-    height: 180px !important;
-    border-radius: 10px !important; /* 确保有圆角，但不是圆形 */
-    object-fit: cover !important;
+  display: block; /* 避免行内元素影响 */
+  width: 180px !important;
+  height: 180px !important;
+  border-radius: 10px !important; /* 确保有圆角，但不是圆形 */
+  object-fit: cover !important;
 }
-
 
 .image.logo img {
   border-radius: 0%;
@@ -298,11 +294,9 @@ papertitle {
   margin-bottom: -10px;
 }
 
-
-
 #header .image.avatar {
   margin: 0 0 em 0;
-  width: 8.00em;
+  width: 8em;
 }
 
 // #header .image.logo {
@@ -312,65 +306,63 @@ papertitle {
 
 h3 {
   font-weight: 400;
-  color: #355F2E;
+  color: #123524;
   margin: 0 0 0px;
 }
 
 h4 {
   font-weight: 400;
-  color: #355F2E;
+  color: #123524;
   margin: 0 0 5px;
 }
-
 
 h5,
 h6 {
   font-weight: 600;
-  color: #355F2E;
+  color: #123524;
   margin: 0 0 20px;
 }
 
 h1 {
   font-weight: 500;
-  color: #355F2E;
+  color: #123524;
   margin: 0 0 8px;
 }
 
 h2 {
-  color: #355F2E;
+  color: #123524;
   font-weight: 500;
   margin: 2px 0px 15px;
   font-size: 157%;
 }
 
 @media (prefers-color-scheme: dark) {
-
   h1,
   h3 {
     font-weight: 300;
-    color: #fff;
+    color: #A294F9;
     margin: 0 0 20px;
   }
 
   h4 {
     font-weight: 400;
-    color: #d6d6d6;
+    color: #A294F9;
     margin: 0 0 5px;
   }
 
   h5,
   h6 {
-    color: #d6d6d6;
+    color: #A294F9;
   }
 
   h2 {
-    color: #d6d6d6;
+    color: #A294F9;
   }
 
   email {
     font-size: 14px;
-    color: #d6d6d6;
-    font-family: "Ubuntu Mono";
+    color: #A294F9;
+    font-family: 'Ubuntu Mono';
   }
 }
 
@@ -394,7 +386,7 @@ h1 {
 }
 
 a {
-  color: #702b9d;
+  color: #3E7B27;
   text-decoration: none;
 }
 
@@ -404,7 +396,7 @@ a:hover {
 
 @media (prefers-color-scheme: dark) {
   a {
-    color: #ab82c5;
+    color: #CDC1FF;
   }
 }
 
@@ -433,7 +425,8 @@ blockquote {
 
 code,
 pre {
-  font-family: Monaco, Bitstream Vera Sans Mono, Lucida Console, Terminal, Consolas, Liberation Mono, DejaVu Sans Mono, Courier New, monospace;
+  font-family: Monaco, Bitstream Vera Sans Mono, Lucida Console, Terminal, Consolas, Liberation Mono,
+    DejaVu Sans Mono, Courier New, monospace;
   color: #333;
 }
 
@@ -486,11 +479,9 @@ header {
   float: left;
   position: fixed;
   -webkit-font-smoothing: subpixel-antialiased;
-  padding-top: 4.0em;
-  text-align: center
+  padding-top: 4em;
+  text-align: center;
 }
-
-
 
 header ul {
   list-style: none;
@@ -546,7 +537,7 @@ strong {
   }
 }
 
-header ul li+li+li {
+header ul li + li + li {
   border-right: none;
   width: 89px;
 }
@@ -555,13 +546,6 @@ header ul a strong {
   font-size: 14px;
   display: block;
   color: #222;
-}
-
-section {
-  width: 650px;
-  float: right;
-  padding-top: 4.0em;
-  padding-bottom: 50px;
 }
 
 small {
@@ -584,9 +568,7 @@ footer {
   text-align: center;
 }
 
-@media print,
-screen and (max-width: 960px) {
-
+@media print, screen and (max-width: 960px) {
   .pub-row {
     display: flex;
     align-items: center;
@@ -598,76 +580,65 @@ screen and (max-width: 960px) {
   }
 
   .image.avatar img {
-   display: block; /* 避免行内元素影响 */
+    display: block; /* 避免行内元素影响 */
     width: 180px !important;
     height: 180px !important;
     border-radius: 10px !important; /* 确保有圆角，但不是圆形 */
     object-fit: cover !important;
-
   }
 }
 
+footer {
+  float: none;
+  position: static;
+  width: auto;
+}
 
+header {
+  padding-right: 320px;
+}
 
-  header,
-  section,
-  footer {
-    float: none;
-    position: static;
-    width: auto;
-  }
+section {
+  width: 650px;
+  float: right;
+  padding-top: 4em;
+  padding-bottom: 50px;
+}
 
-  header {
-    padding-right: 320px;
-  }
+header a small {
+  display: inline;
+}
 
-  section {
-    border: 1px solid #e5e5e5;
-    border-width: 1px 0;
-    padding: 20px 0;
-    margin: 0 0 20px;
-  }
-
-  header a small {
-    display: inline;
-  }
-
-  header ul {
-    position: absolute;
-    right: 50px;
-    top: 52px;
-  }
+header ul {
+  position: absolute;
+  right: 50px;
+  top: 52px;
+}
 
 .image.avatar img {
-display: block; /* 避免行内元素影响 */
-    width: 180px !important;
-    height: 180px !important;
-    border-radius: 10px !important; /* 确保有圆角，但不是圆形 */
-    object-fit: cover !important;
-
+  display: block; /* 避免行内元素影响 */
+  width: 180px !important;
+  height: 180px !important;
+  border-radius: 10px !important; /* 确保有圆角，但不是圆形 */
+  object-fit: cover !important;
 }
 
-
-
-  .image.logo img {
-    border-radius: 0%;
-    width: 117px;
-    padding: 3px;
-    margin-top: -20px;
-  }
-
-  #head1o2 {
-    visibility: hidden;
-  }
-
-  #head2o2 {
-    visibility: hidden;
-  }
-
+.image.logo img {
+  border-radius: 0%;
+  width: 117px;
+  padding: 3px;
+  margin-top: -20px;
 }
 
-@media print,
-screen and (max-width: 960px) {
+#head1o2 {
+  visibility: hidden;
+}
+
+#head2o2 {
+  visibility: hidden;
+}
+
+@media print, screen and (max-width: 960px) {
   body {
     word-wrap: break-word;
     padding: 15px;
@@ -683,7 +654,8 @@ screen and (max-width: 960px) {
   }
 
   header ul,
-  header p.view {}
+  header p.view {
+  }
 
   pre,
   code {
@@ -691,9 +663,7 @@ screen and (max-width: 960px) {
   }
 }
 
-@media print,
-screen and (max-width: 480px) {
-
+@media print, screen and (max-width: 480px) {
   .pub-row {
     display: block;
     align-items: center;
@@ -708,17 +678,16 @@ screen and (max-width: 480px) {
   }
 
   header li,
-  header ul li+li+li {
+  header ul li + li + li {
     width: 33%;
   }
 
   .image.avatar img {
- display: block; /* 避免行内元素影响 */
+    display: block; /* 避免行内元素影响 */
     width: 180px !important;
     height: 180px !important;
     border-radius: 10px !important; /* 确保有圆角，但不是圆形 */
     object-fit: cover !important;
-
   }
 
   #head1o2 {
@@ -728,7 +697,6 @@ screen and (max-width: 480px) {
   #head2o2 {
     visibility: hidden;
   }
-
 }
 
 @media print {
