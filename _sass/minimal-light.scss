@@ -598,6 +598,12 @@ screen and (max-width: 960px) {
     margin: 0;
   }
 
+  .image.avatar img {
+    border-radius: 0% !important; /* 确保头像是方形 */
+  }
+}
+
+
 
   header,
   section,
@@ -628,15 +634,15 @@ screen and (max-width: 960px) {
     top: 52px;
   }
 
-
 .image.avatar img {
-    border-radius: 0% !important;  
-    width: 180px !important; 
-    height: 180px !important; 
-    object-fit: cover !important;  
-    display: block;
+    width: 180px !important;
+    height: 180px !important;
+    border-radius: 0% !important; /* 确保不会变成圆形 */
+    object-fit: cover !important;
+    border: 2px solid #ddd;
+    box-shadow: 0 -1px 5px 1px rgba(200, 200, 200, 0.3);
+    padding: 0;
 }
-
 
 
 
