@@ -1,7 +1,7 @@
 baseURL = "https://example.com"
 languageCode = "en-us"
 title = "Your Name"
-theme = "minimal"
+theme = "minimal-light"
 
 [params]
   # Basic Information
@@ -22,9 +22,9 @@ theme = "minimal"
   twitter = "https://twitter.com/"
 
   # Images
-  avatar = "./assets/img/avatar.png"
-  favicon = "./assets/img/favicon.png"
-  favicon_dark = "./assets/img/favicon-dark.png"
+  avatar = "/img/avatar.png"
+  favicon = "/static/img/favicon.png"
+  favicon_dark = "/static/img/favicon-dark.png"
 
   # Other options
   enable_footnote = true
