@@ -1,0 +1,3 @@
+[submodule "themes/minimal-light"]
+	path = themes/minimal-light
+	url = https://github.com/xianmin/hugo-minimal-light
