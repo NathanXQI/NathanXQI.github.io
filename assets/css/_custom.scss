@@ -17,10 +17,13 @@ h1 {
   color: #347928;
 }
 
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100..900&family=Titillium+Web:ital,wght@0,200;0,300;0,400;0,600;0,700;0,900;1,200;1,300;1,400;1,600;1,700&display=swap" rel="stylesheet");
+
+ 
 // 修改正文颜色为灰色
 body {
   color: #595959; 
-  font-size: 14px; // 
+  font-size: 12px; // 
 }
 
 // 修改所有标题颜色为深绿色
@@ -40,8 +43,5 @@ a:hover {
   text-decoration: underline; // 使悬停时更明显
 }
 
-@import url("https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100..900&family=Titillium+Web:wght@200;300;400;600;700;900&display=swap");
-
- 
 
 
