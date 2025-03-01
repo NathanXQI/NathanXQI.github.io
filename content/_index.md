@@ -4,19 +4,25 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at [Your University](https://www.example.edu/). My research interests include...
+I'm a first-year Ph.D. student in [Design](https://www.polyu.edu.hk/sd/) at [The Hong Kong Polytechnic University](https://www.polyu.edu.hk). I'm advised by [Dr. Junan Yu](https://scholar.google.com/citations?user=QB0mrfwAAAAJ&hl=en&oi=ao) in [the Little Design Group](https://www.littledesign.org/about-us). I take an interdisciplinary approach and conduct research in the fields of Human-Computer Interaction (HCI), Child-Computer Interaction (CCI), and Design. My research has been published in venues for Human-Computer Interaction, such as the ACM CHI conference.
 
 ## Research Interests
 
-- Computer Vision
-- Machine Learning
-- Computational Photography
+- **Children's Well-being:**  Children's mental health, Healthcare-related education
+- **Design Methodology:**  Design methods, such as Participatory Design and Co-Design
+
+## Education
+- **2024-Present**  Ph.D. in Design, The Hong Kong Polytechnic University, Hong Kong, China
+- **2022-2023** M.Des. in Service Design, The HongKong Polytechnic University, Hong Kong, China
+- **2017-2022** B.Fa. in Product Design, Central Academy of Fine Arts, Beijing, China
+
+## Teaching
+- **2024** [2302040] Transdisciplinary Innovation Design, School of Design, Central Academy of Fine Arts
 
 ## News
+- **[Jan. 2025]** One paper was accepted at CHI’25 🌸. 
 
-- **[Feb. 2024]** Our paper about XXX has been accepted to CVPR 2024.
-- **[Jan. 2024]** Gave a talk at XXX Conference.
-
+<!--
 ## Publications
 
 ### 2024
@@ -43,3 +49,4 @@ I am a Ph.D. student at [Your University](https://www.example.edu/). My research
 
 - Conference Reviewer: CVPR 2024, ICCV 2023
 - Journal Reviewer: IEEE TPAMI, IJCV
+-->
