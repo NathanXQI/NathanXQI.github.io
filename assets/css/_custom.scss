@@ -19,7 +19,8 @@ h1 {
 
 // 修改正文颜色为灰色
 body {
-  color: #595959;  // 
+  color: #595959; 
+  font-family: "Roboto Slab", serif; // 
 }
 
 // 修改所有标题颜色为深绿色
@@ -41,7 +42,6 @@ a:hover {
 
 @import url("https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100..900&display=swap");
 
-body {
-  font-family: "Roboto Slab", serif;
-}
+ 
+
 
