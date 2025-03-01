@@ -4,10 +4,9 @@ title = "Xiang (Nathan) Qi"
 theme = "minimal-light"
 
 [params]
-  # Basic Information
   position = "Ph.D. Student"
-  affiliation = "[The Hong Kong Polytechnic University](https://www.polyu.edu.hk/), 11 Yuk Choi Rd, Hung Hom, Hong Kong"
-  email = "nathanxiang.qi@connect.polyu.hk"
+  affiliation = "<div style='text-align: center;'><a href='https://www.polyu.edu.hk/'>The Hong Kong Polytechnic University</a><br>11 Yuk Choi Rd, Hung Hom, Hong Kong</div>"
+  email = "nathanxiang.qi@connect.polyu.hk
 
   # Search Engine Optimization (SEO)
   keywords = "minimal light"
