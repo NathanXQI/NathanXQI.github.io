@@ -5,9 +5,9 @@ main:
     conference_short: "CHI’25"
     image: "/img/PD.png"
     pdf: "https://drive.google.com/file/d/1zr4W045sUZ0ztdD8Y8W8kgK-GOmdMJLE/view?usp=sharing"
-    code: "https://drive.google.com/file/d/1zr4W045sUZ0ztdD8Y8W8kgK-GOmdMJLE/view?usp=sharing"
-    page: "https://drive.google.com/file/d/1zr4W045sUZ0ztdD8Y8W8kgK-GOmdMJLE/view?usp=sharing"
-    bibtex: "/bibtex/paper1.txt"
+    //code: "https://drive.google.com/file/d/1zr4W045sUZ0ztdD8Y8W8kgK-GOmdMJLE/view?usp=sharing"
+    //page: "https://drive.google.com/file/d/1zr4W045sUZ0ztdD8Y8W8kgK-GOmdMJLE/view?usp=sharing"
+    //bibtex: "/bibtex/paper1.txt"
     //notes: "Best Paper Award"
 
   - title: "Paper Title 2"
