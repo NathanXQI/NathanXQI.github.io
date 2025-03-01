@@ -1,13 +1,13 @@
 baseURL = "https://example.com"
 languageCode = "en-us"
-title = "Your Name"
+title = "Xiang "Nathan" Qi"
 theme = "minimal-light"
 
 [params]
   # Basic Information
   position = "Ph.D. Student"
   affiliation = "Your Affiliation"
-  email = "yourname (at) example.edu"
+  email = "nathanxiang.qi@connect.polyu.hk"
 
   # Search Engine Optimization (SEO)
   keywords = "minimal light"
@@ -15,11 +15,9 @@ theme = "minimal-light"
   canonical = "https://minimal-light-theme.yliu.me/"
 
   # Links
-  google_scholar = "https://scholar.google.com/"
-  cv_link = "assets/files/curriculum_vitae.pdf"
-  github_link = "https://github.com/"
-  linkedin = "https://www.linkedin.com/"
-  twitter = "https://twitter.com/"
+  google_scholar = "https://scholar.google.com/citations?user=CEDTeYoAAAAJ&hl=en"
+  cv_link = "https://drive.google.com/file/d/1LgwvIxhYcKiv3AE7JOEcnaIQdjShAFUP/view?usp=sharing"
+  linkedin = "www.linkedin.com/in/nathanxiangqi"
 
   # Images
   avatar = "/img/avatar.png"
