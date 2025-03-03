@@ -25,7 +25,7 @@ theme = "minimal-light"
   favicon_dark = "/static/img/favicon-dark.png"
 
   # Other options
-  enable_footnote = true
+  enable_footnote = false
   auto_dark_mode = true
   font = "Serif" # or "Sans Serif"
-  google_analytics = "UA-111540567-4"
+  google_analytics = ""
