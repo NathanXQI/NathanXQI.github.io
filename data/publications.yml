@@ -1,6 +1,6 @@
 main:
   - title: "Participatory Design in Human-Computer Interaction: Cases, Characteristics, and Lessons"
-    authors: "<**Xiang Qi,** Junnan Yu"
+    authors: "**Xiang Qi,** Junnan Yu"
     conference: "In Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems <strong>(CHI'25)</strong>, May. 2025."
     conference_short: "CHI"
     image: "/img/PD.png"
@@ -11,7 +11,7 @@ main:
     //notes: "Best Paper Award"
 
   - title: "Parent-Child Joint Media Engagement within HCI: A Scoping Analysis of the Research Landscape"
-    authors: "Junnan Yu,<strong> Xiang Qi </strong> & Siqi Yang"
+    authors: "Junnan Yu, **Xiang Qi** & Siqi Yang"
     conference: "In Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems <strong>(CHI '24)</strong>, May. 2024."
     conference_short: "CHI"
     image: "/img/JME_figure.png"
