@@ -14,7 +14,7 @@ I'm a first-year Ph.D. student in [Design](https://www.polyu.edu.hk/sd/) at [The
 ## Education
 - **2024-Present**  Ph.D. in Design, The Hong Kong Polytechnic University, Hong Kong, China
 - **2022-2023** M.Des. in Service Design, The HongKong Polytechnic University, Hong Kong, China
-- **2017-2022** B.Fa. in Product Design, Central Academy of Fine Arts, Beijing, China
+- **2017-2022** B.Fa. in Product Design, Central Academy of Fine Arts (CAFA), Beijing, China
 
 ## Teaching
 - **2024** [2302040] Transdisciplinary Innovation Design, School of Design, Central Academy of Fine Arts
