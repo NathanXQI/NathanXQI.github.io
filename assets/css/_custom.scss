@@ -39,6 +39,11 @@ a:hover {
   color: #008000 !important;
 }
 
+// 论文图片角标颜色
+.publications ol.bibliography li .abbr abbr {
+  background-color: #00712D;
+}
+
 position {
   font-size: 1.10rem;
 }
