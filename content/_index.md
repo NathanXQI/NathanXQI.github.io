@@ -23,7 +23,7 @@ I'm a first-year Ph.D. student in [Design](https://www.polyu.edu.hk/sd/) at [The
 - **[Jan. 2025]** One paper was accepted at CHI’25 🌸. 
 
 <!--
-## Publications
+## Publications (Selected)
 
 ### 2024
 
