@@ -22,7 +22,12 @@ h1 {
 }
 
 // 修改所有标题颜色为深绿色
-h1, h2, h3, h4, h5, h6 {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
   color: #000000; // 深绿色
 }
 
@@ -45,10 +50,50 @@ a:hover {
 
 // 论文图片角标颜色
 .publications ol.bibliography li .abbr abbr {
-  background-color: #00712D;
+  background-color: #00712d;
 }
 
 position {
-  font-size: 1.10rem;
+  font-size: 1.1rem;
 }
 
+
+/**------------------------------------------------------------------------
+ *                         暗色模式设置
+ *------------------------------------------------------------------------**/
+@media (prefers-color-scheme: dark) {
+  // 设置除链接外的所有字体颜色为 #eee6f3
+  body,
+  p,
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6,
+  span,
+  div,
+  .notes {
+    color: #eee6f3 !important;
+  }
+
+  // 链接颜色
+  a {
+    color: #2be8c2 !important;
+  }
+
+  // 保持链接悬停颜色不变
+  a:hover {
+    color: #2be8c2 !important;
+  }
+
+  // icon 颜色
+  .social-icons a {
+    color: #2be8c2 !important;
+  }
+
+  // 论文图片角标颜色
+  .publications ol.bibliography li .abbr abbr {
+    background-color: #2be8c2 !important;
+  }
+}
