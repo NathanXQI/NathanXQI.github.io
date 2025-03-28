@@ -20,6 +20,7 @@ I'm a first-year Ph.D. student in [Design](https://www.polyu.edu.hk/sd/) at [The
 - **2024** [2302040] Transdisciplinary Innovation Design, School of Design, Central Academy of Fine Arts
 
 ## News
+- **[Fri. 2025]** One paper received the "Best Paper Honorable Mention Award" at CHI 2025. 
 - **[Jan. 2025]** One paper was accepted at CHI’25 🌸. 
 
 <!--
