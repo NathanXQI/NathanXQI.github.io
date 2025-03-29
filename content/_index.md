@@ -19,9 +19,9 @@ I'm a first-year Ph.D. student in [Design](https://www.polyu.edu.hk/sd/) at [The
 ## Teaching
 - **2024** [2302040] Transdisciplinary Innovation Design, School of Design, Central Academy of Fine Arts
 
-## News
-- **[Mar. 2025]** One paper received the ["Best Paper Honorable Mention Award"](https://programs.sigchi.org/chi/2025/program/content/189475) CHI’25. 
-- **[Jan. 2025]** One paper was accepted at CHI’25 🌸. 
+## Awards
+- **[2025]** “PD in HCI” received the ["Best Paper Honorable Mention Award"](https://programs.sigchi.org/chi/2025/program/content/189475) CHI’25. 
+
 
 <!--
 ## Publications (Selected)
