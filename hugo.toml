@@ -20,7 +20,7 @@ theme = "minimal-light"
   linkedin = "https://www.linkedin.com/in/nathanxiangqi"
 
   # Images
-  avatar = "/img/avatar.png"
+  avatar = "/img/Nathan.jpg"
   favicon = "/static/img/favicon.png"
   favicon_dark = "/static/img/favicon-dark.png"
 
