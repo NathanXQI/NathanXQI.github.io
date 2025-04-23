@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I'm a first-year Ph.D. student in [Design](https://www.polyu.edu.hk/sd/) at [The Hong Kong Polytechnic University](https://www.polyu.edu.hk). I'm advised by [Dr. Junan Yu](https://junnanyu.com/) in [the Little Design Group](https://www.littledesign.org/about-us). I take an interdisciplinary approach and conduct research in the fields of Human-Computer Interaction (HCI), Child-Computer Interaction (CCI), and Design. My research has been published in venues for Human-Computer Interaction, such as the ACM CHI conference.
+I'm a first-year Ph.D. student in [Design](https://www.polyu.edu.hk/sd/) at [The Hong Kong Polytechnic University](https://www.polyu.edu.hk). I'm advised by [Dr. Junnan Yu](https://junnanyu.com/) in [the Little Design Group](https://www.littledesign.org/about-us). I take an interdisciplinary approach and conduct research in the fields of Human-Computer Interaction (HCI), Child-Computer Interaction (CCI), and Design. My research has been published in venues for Human-Computer Interaction, such as the ACM CHI conference.
 
 ## Research Interests
 
