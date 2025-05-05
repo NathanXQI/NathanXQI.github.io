@@ -5,8 +5,8 @@ main:
     conference_short: "CHI"
     image: "/img/PD.jpg"
     pdf: "https://drive.google.com/file/d/1zr4W045sUZ0ztdD8Y8W8kgK-GOmdMJLE/view?usp=sharing"
-    //code: "https://drive.google.com/file/d/1zr4W045sUZ0ztdD8Y8W8kgK-GOmdMJLE/view?usp=sharing"
-    //page: "https://drive.google.com/file/d/1zr4W045sUZ0ztdD8Y8W8kgK-GOmdMJLE/view?usp=sharing"
+    //code: "https://dl.acm.org/doi/10.1145/3706598.3713436"
+    //page: "https://dl.acm.org/doi/10.1145/3706598.3713436"
     //bibtex: "/bibtex/paper1.txt"
     notes: 🏅 Best Paper Honorable Mention Award
 
