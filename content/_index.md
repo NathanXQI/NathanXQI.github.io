@@ -8,8 +8,9 @@ I’m a first-year Ph.D. student in [Design](https://www.polyu.edu.hk/sd/) at [T
 
 ## Research Interests
 
-- **Children's Well-being:**  Children’s mental health, Healthcare-related education
-- **Design Methodology:**  Design methods, such as Participatory Design and Co-Design
+- **Responsible AI Design for Children**
+- **Children's Well-being:** Healthcare-related education
+- **Design Methodology:** Participatory Design and Co-Design
 
 ## Education
 - **2024-Present**  Ph.D. in Design, The Hong Kong Polytechnic University, Hong Kong, China
