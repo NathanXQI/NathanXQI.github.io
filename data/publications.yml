@@ -16,3 +16,5 @@ main:
     conference_short: "CHI"
     image: "/img/JME_figure.png"
     pdf: "https://dl.acm.org/doi/10.1145/3613904.3642307"
+    //code: "https://dl.acm.org/doi/10.1145/3613904.3642307"
+    //page: "https://dl.acm.org/doi/10.1145/3613904.3642307"
