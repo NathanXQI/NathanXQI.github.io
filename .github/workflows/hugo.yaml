@@ -56,8 +56,13 @@ jobs:
           HUGO_ENVIRONMENT: production
           TZ: America/Los_Angeles
         run: |
+          # 清理任何可能存在的缓存
+          rm -rf ${{ runner.temp }}/hugo_cache || true
+          
+          # 使用--ignoreCache选项强制Hugo重新构建所有内容
           hugo \
             --gc \
+            --ignoreCache \
             --minify \
             --baseURL "${{ steps.pages.outputs.base_url }}/"
       - name: Upload artifact
