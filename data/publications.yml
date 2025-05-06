@@ -1,5 +1,6 @@
 main:
   - title: "Participatory Design in Human-Computer Interaction: Cases, Characteristics, and Lessons"
+    titleURL: "https://example.com"
     authors: "**Xiang Qi,** Junnan Yu"
     conference: "In Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems <strong>(CHI ’25)</strong>, May. 2025."
     conference_short: "CHI"
