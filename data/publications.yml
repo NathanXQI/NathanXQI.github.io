@@ -4,9 +4,7 @@ main:
     conference: "In Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems <strong>(CHI ’25)</strong>, May. 2025."
     conference_short: "CHI"
     image: "/img/PD.jpg"
-    pdf: "https://dl.acm.org/doi/10.1145/3706598.3713436"
-    code: "https://dl.acm.org/doi/pdf/10.1145/3706598.3713436"
-    page: "https://dl.acm.org/doi/pdf/10.1145/3706598.3713436"
+    pdf: "https://dl.acm.org/doi/pdf/10.1145/3706598.3713436"
     //bibtex: "/bibtex/paper1.txt"
     notes: 🏅 Best Paper Honorable Mention Award
 
@@ -16,5 +14,3 @@ main:
     conference_short: "CHI"
     image: "/img/JME_figure.png"
     pdf: "https://dl.acm.org/doi/10.1145/3613904.3642307"
-    //code: "https://dl.acm.org/doi/10.1145/3613904.3642307"
-    //page: "https://dl.acm.org/doi/10.1145/3613904.3642307"
