@@ -10,7 +10,7 @@ I’m a first-year Ph.D. student in [Design](https://www.polyu.edu.hk/sd/) at [T
 
 - **Responsible AI Design for Children**
 - **Children's Well-being:** Healthcare-related Education
-- **Design Methodology:** Participatory Design and Co-Design
+- **Design Methods:** Participatory Design and Co-Design
 
 ## Education
 - **2024-Present**  Ph.D. in Design, The Hong Kong Polytechnic University, Hong Kong, China
