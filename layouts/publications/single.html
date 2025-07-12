@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.Language.Lang }}">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>{{ .Title }} - {{ .Site.Title }}</title>
+    {{ if .Site.Params.favicon }}
+    <link rel="icon" type="image/png" href="{{ .Site.Params.favicon | relURL }}" />
+    {{ end }} {{ if .Site.Params.favicon_dark }}
+    <link
+      rel="icon"
+      type="image/png"
+      href="{{ .Site.Params.favicon_dark | relURL }}"
+      media="(prefers-color-scheme: dark)"
+    />
+    {{ end }}
+    <meta name="description" content="{{ .Site.Params.description }}" />
+    <meta name="keywords" content="{{ .Site.Params.keywords }}" />
+    {{ $style := resources.Get "css/style.scss" | css.Sass | resources.Minify }}
+    <link rel="stylesheet" href="{{ $style.RelPermalink }}" />
+    <link rel=stylesheet
+    href=https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css
+    integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin=anonymous> <link
+    rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css
+    integrity="sha256-+N4/V/SbAFiW1MPBCXnfnP9QSN3+Keu+NlB+0ev/YKQ=" crossorigin=anonymous> {{
+    partial "custom_head.html" .}}
+  </head>
+  <body class="publications-body">
+    {{ partial "navbar.html" . }}
+
+    <div class="publications-page">
+      <div class="publications-header">
+        <h1>
+          Publications
+          <a href="{{ .Site.Params.google_scholar }}" target="_blank" class="google-scholar-link"
+            >[Google Scholar]</a
+          >
+        </h1>
+      </div>
+
+      <!-- Publications List -->
+      <div class="publications-content">
+        {{ $currentYear := 0 }} {{ range .Site.Data.publications.main }} {{ $year := int (substr
+        .conference -5 4) }} {{ if ne $year $currentYear }} {{ $currentYear = $year }}
+        <h2 class="year-header">{{ $year }}</h2>
+        {{ end }}
+
+        <div class="publication-item">
+          <div class="publication-title">
+            <a href="{{ .titleURL }}" target="_blank">{{ .title | markdownify }}</a>
+            {{ if .pdf }}
+            <a href="{{ .pdf }}" target="_blank" class="pdf-link">[PDF]</a>
+            {{ end }}
+          </div>
+          <div class="publication-authors">{{ .authors | markdownify }}</div>
+          <div class="publication-venue">{{ .conference | markdownify }}</div>
+          {{ if .notes }}
+          <div class="publication-notes">{{ .notes }}</div>
+          {{ end }}
+        </div>
+        {{ end }}
+      </div>
+    </div>
+  </body>
+</html>

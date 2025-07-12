@@ -1,0 +1,137 @@
+// Publications Body Styles
+.publications-body {
+  background-color: #404040;
+  color: #eee6f3;
+  font: 16px/1.5 'Crimson Pro', serif;
+  font-weight: 400;
+  margin: 0;
+  padding: 0;
+  min-height: 100vh;
+}
+
+// Publications Page Styles
+.publications-page {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 6rem 2rem 2rem 2rem;
+
+  .publications-header {
+    margin-bottom: 3rem;
+
+    h1 {
+      font-size: 2.5rem;
+      font-weight: 300;
+      color: #eee6f3;
+      margin-bottom: 2rem;
+
+      .google-scholar-link {
+        color: #2be8c2;
+        text-decoration: none;
+        font-size: 1.2rem;
+        margin-left: 0.5rem;
+
+        &:hover {
+          color: #2be8c2;
+          text-decoration: underline;
+        }
+      }
+    }
+  }
+
+  .publications-content {
+    .year-header {
+      font-size: 1.8rem;
+      font-weight: 300;
+      color: #ccc;
+      margin: 2.5rem 0 1.5rem 0;
+      padding-bottom: 0.5rem;
+      border-bottom: 2px solid #555;
+    }
+
+    .publication-item {
+      margin-bottom: 2rem;
+      padding: 0;
+      background: transparent;
+      border-radius: 0;
+      box-shadow: none;
+      transition: none;
+
+      .publication-title {
+        font-size: 1.2rem;
+        font-weight: 600;
+        margin-bottom: 0.5rem;
+        line-height: 1.4;
+
+        a {
+          color: #eee6f3;
+          text-decoration: none;
+
+          &:hover {
+            color: #2be8c2;
+          }
+        }
+
+        .pdf-link {
+          color: #ff6b6b;
+          font-size: 0.9rem;
+          font-weight: 500;
+          margin-left: 0.5rem;
+          text-decoration: none;
+
+          &:hover {
+            text-decoration: underline;
+          }
+        }
+      }
+
+      .publication-authors {
+        color: #ccc;
+        margin-bottom: 0.3rem;
+        font-size: 1rem;
+
+        strong {
+          color: #eee6f3;
+        }
+      }
+
+      .publication-venue {
+        color: #999;
+        font-style: italic;
+        margin-bottom: 0.5rem;
+
+        strong {
+          color: #ccc;
+          font-weight: 600;
+        }
+      }
+
+      .publication-notes {
+        color: #4caf50;
+        font-weight: 500;
+        font-size: 0.9rem;
+        margin-top: 0.5rem;
+      }
+    }
+  }
+}
+
+// Responsive design for publications page
+@media (max-width: 768px) {
+  .publications-page {
+    padding: 5rem 1rem 2rem 1rem;
+
+    .publications-header {
+      h1 {
+        font-size: 2rem;
+      }
+    }
+
+    .publications-content {
+      .publication-item {
+        .publication-title {
+          font-size: 1.1rem;
+        }
+      }
+    }
+  }
+}

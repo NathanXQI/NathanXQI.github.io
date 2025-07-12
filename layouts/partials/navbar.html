@@ -1,0 +1,10 @@
+<!-- Navigation Bar -->
+<nav class="navbar">
+  <div class="nav-container">
+    <div class="nav-links">
+      <a href="/" class="nav-link {{ if .IsHome }}active{{ end }}">About</a>
+      <a href="/publications/" class="nav-link {{ if eq .Section "publications" }}active{{ end }}">Publication</a>
+      <a href="/design/" class="nav-link {{ if eq .Section "design" }}active{{ end }}">Design</a>
+    </div>
+  </div>
+</nav>
