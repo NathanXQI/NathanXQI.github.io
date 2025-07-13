@@ -14,130 +14,25 @@
       <!-- Design Works Grid -->
       <div class="design-content">
         <div class="design-grid">
-          <!-- Design Item 1 -->
-          <div class="design-item">
-            <div class="design-info">
-              <div class="design-meta">
-                <span class="design-category">QCPR Skillreport</span>
-                <span class="design-year">2024</span>
+          {{ range (where .Site.Pages "Section" "design") }} {{ if ne .File.BaseFileName "_index" }}
+          <a href="{{ .RelPermalink }}" class="design-item-link">
+            <div class="design-item">
+              <div class="design-info">
+                <div class="design-meta">
+                  <span class="design-category">{{ .Title }}</span>
+                  <span class="design-year">{{ .Date.Format "2006" }}</span>
+                </div>
+                <div class="design-description">{{ .Params.description }}</div>
+                <div class="design-tags">
+                  {{ range .Params.tags }}
+                  <span class="tag">{{ . }}</span>
+                  {{ end }}
+                </div>
               </div>
-              <div class="design-title">
-                Redesign of QCPR SkillReport, a QCPR training platform.
-              </div>
-              <div class="design-tags">
-                <span class="tag">Usability test</span>
-                <span class="tag">User Research</span>
-                <span class="tag">Interaction Design</span>
-                <span class="tag">Figma</span>
-              </div>
+              <img src="{{ .Params.featured_image }}" alt="{{ .Title }}" class="design-image" />
             </div>
-            <img src="/img/PD.png" alt="QCPR Skillreport" class="design-image" />
-          </div>
-
-          <!-- Design Item 2 -->
-          <div class="design-item">
-            <div class="design-info">
-              <div class="design-meta">
-                <span class="design-category">QCPR Skillreport</span>
-                <span class="design-year">2024</span>
-              </div>
-              <div class="design-title">
-                Redesign of QCPR SkillReport, a QCPR training platform.
-              </div>
-              <div class="design-tags">
-                <span class="tag">Usability test</span>
-                <span class="tag">User Research</span>
-                <span class="tag">Interaction Design</span>
-                <span class="tag">Figma</span>
-              </div>
-            </div>
-            <img src="/img/PD.png" alt="QCPR Skillreport" class="design-image" />
-          </div>
-
-          <!-- Design Item 3 -->
-          <div class="design-item">
-            <div class="design-info">
-              <div class="design-meta">
-                <span class="design-category">QCPR Skillreport</span>
-                <span class="design-year">2024</span>
-              </div>
-              <div class="design-title">
-                Redesign of QCPR SkillReport, a QCPR training platform.
-              </div>
-              <div class="design-tags">
-                <span class="tag">Usability test</span>
-                <span class="tag">User Research</span>
-                <span class="tag">Interaction Design</span>
-                <span class="tag">Figma</span>
-              </div>
-            </div>
-            <img src="/img/PD.png" alt="QCPR Skillreport" class="design-image" />
-          </div>
-
-          <!-- Design Item 4 -->
-          <div class="design-item">
-            <div class="design-info">
-              <div class="design-meta">
-                <span class="design-category">QCPR Skillreport</span>
-                <span class="design-year">2024</span>
-              </div>
-              <div class="design-title">
-                Redesign of QCPR SkillReport, a QCPR training platform.
-              </div>
-              <div class="design-tags">
-                <span class="tag">Usability test</span>
-                <span class="tag">User Research</span>
-                <span class="tag">Interaction Design</span>
-                <span class="tag">Figma</span>
-              </div>
-            </div>
-            <img src="/img/PD.png" alt="QCPR Skillreport" class="design-image" />
-          </div>
-
-          <!-- Design Item 5 -->
-          <div class="design-item">
-            <div class="design-info">
-              <div class="design-meta">
-                <span class="design-category">Mobile App Design</span>
-                <span class="design-year">2023</span>
-              </div>
-              <div class="design-title">
-                User interface design for a mobile healthcare application focusing on patient
-                monitoring.
-              </div>
-              <div class="design-tags">
-                <span class="tag">Mobile Design</span>
-                <span class="tag">Healthcare</span>
-                <span class="tag">UI/UX</span>
-                <span class="tag">Prototyping</span>
-              </div>
-            </div>
-            <img src="/img/JME_figure.png" alt="Mobile App Design" class="design-image" />
-          </div>
-
-          <!-- Design Item 6 -->
-          <div class="design-item">
-            <div class="design-info">
-              <div class="design-meta">
-                <span class="design-category">Web Platform Dashboard</span>
-                <span class="design-year">2023</span>
-              </div>
-              <div class="design-title">
-                Dashboard design for a data analytics platform with complex data visualization.
-              </div>
-              <div class="design-tags">
-                <span class="tag">Web Design</span>
-                <span class="tag">Data Visualization</span>
-                <span class="tag">Dashboard</span>
-                <span class="tag">Analytics</span>
-              </div>
-            </div>
-            <img
-              src="/img/AWAYVIRUS_figure.png"
-              alt="Web Platform Dashboard"
-              class="design-image"
-            />
-          </div>
+          </a>
+          {{ end }} {{ end }}
         </div>
       </div>
     </div>

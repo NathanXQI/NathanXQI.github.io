@@ -41,6 +41,12 @@
       margin-bottom: 2rem;
     }
 
+    .design-item-link {
+      text-decoration: none;
+      color: inherit;
+      display: block;
+    }
+
     .design-item {
       background: #fff;
       border-radius: 8px;
@@ -75,11 +81,11 @@
           }
         }
 
-        .design-title {
-          font-size: 1.2rem;
+        .design-description {
+          font-size: 1rem;
           font-weight: 400;
           margin-bottom: 1rem;
-          color: #333;
+          color: #666;
           line-height: 1.4;
         }
 
@@ -128,6 +134,10 @@
     }
 
     .design-content {
+      .design-item-link {
+        color: inherit;
+      }
+
       .design-item {
         background: #4a4a4a;
         box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
@@ -147,8 +157,8 @@
             }
           }
 
-          .design-title {
-            color: #eee6f3;
+          .design-description {
+            color: #ccc;
           }
 
           .design-tags {
@@ -164,6 +174,183 @@
               }
             }
           }
+        }
+      }
+    }
+  }
+}
+
+// Design Detail Page Styles
+.design-detail-page {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 6rem 2rem 2rem 2rem;
+
+  .design-detail-header {
+    margin-bottom: 3rem;
+
+    .design-meta {
+      display: flex;
+      justify-content: space-between;
+      align-items: flex-start;
+      margin-bottom: 2rem;
+
+      .design-title {
+        font-size: 2.5rem;
+        font-weight: 600;
+        color: #333;
+        margin: 0;
+        flex: 1;
+      }
+
+      .design-year {
+        color: #666;
+        font-size: 1.5rem;
+        font-weight: 400;
+        margin-left: 2rem;
+        flex-shrink: 0;
+      }
+    }
+
+    .design-description {
+      font-size: 1.1rem;
+      color: #666;
+      line-height: 1.6;
+      margin-bottom: 1.5rem;
+    }
+
+    .design-tags {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.5rem;
+
+      .tag {
+        color: #666;
+        font-size: 0.9rem;
+        font-weight: 400;
+
+        &:not(:last-child)::after {
+          content: ' ';
+          color: #999;
+          margin-left: 0.25rem;
+        }
+      }
+    }
+  }
+
+  .design-detail-content {
+    .design-image-section {
+      margin-bottom: 3rem;
+
+      .design-featured-image {
+        width: 100%;
+        height: auto;
+        border-radius: 8px;
+        box-shadow: 0 4px 16px rgba(0, 0, 0, 0.1);
+      }
+
+      .image-caption {
+        text-align: center;
+        color: #666;
+        font-size: 0.9rem;
+        margin-top: 1rem;
+        font-style: italic;
+      }
+    }
+
+    .design-content-body {
+      font-size: 1rem;
+      line-height: 1.7;
+      color: #333;
+      margin-bottom: 3rem;
+
+      h1,
+      h2,
+      h3,
+      h4,
+      h5,
+      h6 {
+        color: #333;
+        margin-top: 2rem;
+        margin-bottom: 1rem;
+      }
+
+      p {
+        margin-bottom: 1rem;
+      }
+
+      ul,
+      ol {
+        margin-bottom: 1rem;
+        padding-left: 2rem;
+      }
+
+      blockquote {
+        border-left: 4px solid #e0e0e0;
+        padding-left: 1rem;
+        margin: 1rem 0;
+        color: #666;
+        font-style: italic;
+      }
+    }
+  }
+}
+
+// Dark mode styles for design detail page
+@media (prefers-color-scheme: dark) {
+  .design-detail-page {
+    .design-detail-header {
+      .design-meta {
+        .design-title {
+          color: #eee6f3;
+        }
+
+        .design-year {
+          color: #ccc;
+        }
+      }
+
+      .design-description {
+        color: #ccc;
+      }
+
+      .design-tags {
+        .tag {
+          color: #ccc;
+
+          &:not(:last-child)::after {
+            color: #999;
+          }
+        }
+      }
+    }
+
+    .design-detail-content {
+      .design-image-section {
+        .design-featured-image {
+          box-shadow: 0 4px 16px rgba(0, 0, 0, 0.3);
+        }
+
+        .image-caption {
+          color: #ccc;
+        }
+      }
+
+      .design-content-body {
+        color: #eee6f3;
+
+        h1,
+        h2,
+        h3,
+        h4,
+        h5,
+        h6 {
+          color: #eee6f3;
+        }
+
+        blockquote {
+          border-left-color: #666;
+          color: #ccc;
         }
       }
     }
@@ -205,8 +392,8 @@
             }
           }
 
-          .design-title {
-            font-size: 1.1rem;
+          .design-description {
+            font-size: 0.9rem;
           }
 
           .design-tags {
@@ -216,6 +403,34 @@
           }
         }
       }
+    }
+  }
+
+  .design-detail-page {
+    padding: 5rem 1rem 2rem 1rem;
+
+    .design-detail-header {
+      .design-meta {
+        flex-direction: column;
+        align-items: flex-start;
+
+        .design-title {
+          font-size: 2rem;
+          margin-bottom: 0.5rem;
+        }
+
+        .design-year {
+          font-size: 1.2rem;
+          margin-left: 0;
+        }
+      }
+
+      .design-description {
+        font-size: 1rem;
+      }
+    }
+
+    .design-detail-content {
     }
   }
 }
