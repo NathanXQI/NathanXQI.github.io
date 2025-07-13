@@ -17,7 +17,14 @@
 <link rel="canonical" href="{{ .Site.Params.canonical }}" />
 {{ end }} {{ $style := resources.Get "css/style.scss" | css.Sass | resources.Minify }}
 <link rel="stylesheet" href="{{ $style.RelPermalink }}" />
-<link rel=stylesheet
+
+{{ if eq .Section "publications" }} {{ $publicationsStyle := resources.Get "css/publications.scss" |
+css.Sass | resources.Minify }}
+<link rel="stylesheet" href="{{ $publicationsStyle.RelPermalink }}" />
+{{ end }} {{ if eq .Section "design" }} {{ $designStyle := resources.Get "css/design.scss" |
+css.Sass | resources.Minify }}
+<link rel="stylesheet" href="{{ $designStyle.RelPermalink }}" />
+{{ end }} <link rel=stylesheet
 href=https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css
 integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin=anonymous> <link
 rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css

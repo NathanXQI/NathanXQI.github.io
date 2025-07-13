@@ -1,0 +1,245 @@
+// Design Body Styles
+.design-body {
+  background-color: #fff;
+  color: #595959;
+  font: 16px/1.5 'Crimson Pro', serif;
+  font-weight: 400;
+  margin: 0;
+  padding: 0;
+  min-height: 100vh;
+}
+
+@media (prefers-color-scheme: dark) {
+  .design-body {
+    background-color: #404040;
+    color: #eee6f3;
+  }
+}
+
+// Design Page Styles
+.design-page {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 6rem 2rem 2rem 2rem;
+
+  .design-header {
+    margin-bottom: 3rem;
+
+    h1 {
+      font-size: 2.5rem;
+      font-weight: 300;
+      color: #333;
+      margin-bottom: 2rem;
+    }
+  }
+
+  .design-content {
+    .design-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(450px, 1fr));
+      gap: 2rem;
+      margin-bottom: 2rem;
+    }
+
+    .design-item {
+      background: #fff;
+      border-radius: 8px;
+      box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+      overflow: hidden;
+      transition: transform 0.3s ease, box-shadow 0.3s ease;
+
+      &:hover {
+        transform: translateY(-5px);
+        box-shadow: 0 4px 16px rgba(0, 0, 0, 0.15);
+      }
+
+      .design-info {
+        padding: 1.5rem;
+
+        .design-meta {
+          display: flex;
+          justify-content: space-between;
+          align-items: center;
+          margin-bottom: 1rem;
+
+          .design-category {
+            color: #333;
+            font-weight: 600;
+            font-size: 1rem;
+          }
+
+          .design-year {
+            color: #666;
+            font-weight: 400;
+            font-size: 1rem;
+          }
+        }
+
+        .design-title {
+          font-size: 1.2rem;
+          font-weight: 400;
+          margin-bottom: 1rem;
+          color: #333;
+          line-height: 1.4;
+        }
+
+        .design-tags {
+          display: flex;
+          flex-wrap: wrap;
+          gap: 0.5rem;
+          margin-bottom: 1rem;
+
+          .tag {
+            color: #666;
+            font-size: 0.9rem;
+            font-weight: 400;
+
+            &:not(:last-child)::after {
+              content: ' #';
+              color: #999;
+              margin-left: 0.25rem;
+            }
+
+            &::before {
+              content: '#';
+              color: #999;
+            }
+          }
+        }
+      }
+
+      .design-image {
+        width: 100%;
+        height: 250px;
+        object-fit: cover;
+        display: block;
+      }
+    }
+  }
+}
+
+// Dark mode styles for design page
+@media (prefers-color-scheme: dark) {
+  .design-page {
+    .design-header {
+      h1 {
+        color: #eee6f3;
+      }
+    }
+
+    .design-content {
+      .design-item {
+        background: #4a4a4a;
+        box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
+
+        &:hover {
+          box-shadow: 0 4px 16px rgba(0, 0, 0, 0.4);
+        }
+
+        .design-info {
+          .design-meta {
+            .design-category {
+              color: #eee6f3;
+            }
+
+            .design-year {
+              color: #ccc;
+            }
+          }
+
+          .design-title {
+            color: #eee6f3;
+          }
+
+          .design-tags {
+            .tag {
+              color: #ccc;
+
+              &:not(:last-child)::after {
+                color: #999;
+              }
+
+              &::before {
+                color: #999;
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
+
+// Responsive design for design page
+@media (max-width: 768px) {
+  .design-page {
+    padding: 5rem 1rem 2rem 1rem;
+
+    .design-header {
+      h1 {
+        font-size: 2rem;
+      }
+    }
+
+    .design-content {
+      .design-grid {
+        grid-template-columns: 1fr;
+        gap: 1.5rem;
+      }
+
+      .design-item {
+        .design-image {
+          height: 200px;
+        }
+
+        .design-info {
+          padding: 1rem;
+
+          .design-meta {
+            .design-category {
+              font-size: 0.9rem;
+            }
+
+            .design-year {
+              font-size: 0.9rem;
+            }
+          }
+
+          .design-title {
+            font-size: 1.1rem;
+          }
+
+          .design-tags {
+            .tag {
+              font-size: 0.8rem;
+            }
+          }
+        }
+      }
+    }
+  }
+}
+
+@media (max-width: 480px) {
+  .design-page {
+    .design-content {
+      .design-grid {
+        grid-template-columns: 1fr;
+      }
+
+      .design-item {
+        .design-image {
+          height: 180px;
+        }
+
+        .design-info {
+          .design-meta {
+            flex-direction: column;
+            align-items: flex-start;
+            gap: 0.25rem;
+          }
+        }
+      }
+    }
+  }
+}
