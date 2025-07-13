@@ -458,3 +458,54 @@
     }
   }
 }
+
+// Dark-Light Image Shortcode Styles
+.dark-light-image-container {
+  position: relative;
+  margin: 2rem 0;
+
+  .dark-light-image {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.1);
+    display: block;
+  }
+
+  .dark-light-image-light {
+    display: block;
+  }
+
+  .dark-light-image-dark {
+    display: none;
+  }
+
+  .image-caption {
+    text-align: center;
+    color: #666;
+    font-size: 0.9rem;
+    margin-top: 1rem;
+    font-style: italic;
+  }
+}
+
+// Dark mode styles for dark-light-image
+@media (prefers-color-scheme: dark) {
+  .dark-light-image-container {
+    .dark-light-image {
+      box-shadow: 0 4px 16px rgba(0, 0, 0, 0.3);
+    }
+
+    .dark-light-image-light {
+      display: none;
+    }
+
+    .dark-light-image-dark {
+      display: block;
+    }
+
+    .image-caption {
+      color: #ccc;
+    }
+  }
+}

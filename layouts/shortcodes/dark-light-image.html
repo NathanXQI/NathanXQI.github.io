@@ -1,0 +1,21 @@
+{{- $light := .Get "light" -}} {{- $dark := .Get "dark" -}} {{- $alt := .Get "alt" | default
+"Dark-light adaptive image" -}} {{- $class := .Get "class" | default "dark-light-image" -}} {{-
+$caption := .Get "caption" -}}
+
+<div class="dark-light-image-container">
+  <img
+    src="{{ $light }}"
+    alt="{{ $alt }}"
+    class="{{ $class }} dark-light-image-light"
+    data-mode="light"
+  />
+  <img
+    src="{{ $dark }}"
+    alt="{{ $alt }}"
+    class="{{ $class }} dark-light-image-dark"
+    data-mode="dark"
+  />
+  {{ if $caption }}
+  <div class="image-caption">{{ $caption }}</div>
+  {{ end }}
+</div>

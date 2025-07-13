@@ -8,6 +8,21 @@ featured_image: "/img/PD.png"
 image_caption: "QCPR SkillReport redesign mockup"
 ---
 
+## Youtube shortcode
+{{< youtube 0RKpf3rK57I >}}
+
+
+## 黑白图片，根据 prefers-color-scheme 不同显示不同图片
+
+{{<
+dark-light-image
+light="/img/PD.png"
+dark="/img/AWAYVIRUS_figure.png"
+alt="QCPR SkillReport 设计展示"
+caption="明暗模式下的不同设计展示"
+>}}
+
+
 ## Project Overview
 
 This project focused on redesigning the QCPR SkillReport platform to improve user experience and training effectiveness. The platform is used for CPR training assessment and skill reporting.

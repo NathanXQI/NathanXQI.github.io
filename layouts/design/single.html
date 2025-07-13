@@ -22,7 +22,10 @@
                   <span class="design-category">{{ .Title }}</span>
                   <span class="design-year">{{ .Date.Format "2006" }}</span>
                 </div>
-                <div class="design-description">{{ .Params.description }}</div>
+                <div class="design-description">
+                  {{ if gt (len .Params.description) 140 }} {{ substr .Params.description 0 140
+                  }}... {{ else }} {{ .Params.description }} {{ end }}
+                </div>
                 <div class="design-tags">
                   {{ range .Params.tags }}
                   <span class="tag">{{ . }}</span>
