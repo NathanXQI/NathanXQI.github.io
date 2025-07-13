@@ -1,5 +1,5 @@
 ---
-title: "QCPR Skillreport"
+title: "QCPR lrepo"
 layout: "single-detail"
 date: "2024-01-01"
 description: "Redesign of QCPR SkillReport, a QCPR training platform. Redesign of QCPR SkillReport, a QCPR training platform. Redesign of QCPR SkillReport, a QCPR training platform."
