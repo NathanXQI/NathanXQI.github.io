@@ -1,43 +1,46 @@
 ---
-title: "QCPR lrepo"
+title: "AwayVirus"
 layout: "single-detail"
-date: "2024-01-01"
-description: "Redesign of QCPR SkillReport, a QCPR training platform. Redesign of QCPR SkillReport, a QCPR training platform. Redesign of QCPR SkillReport, a QCPR training platform."
-tags: ["Usability test", "User Research", "Interaction Design", "Figma"]
-featured_image: "/img/PD.png"
-image_caption: "QCPR SkillReport redesign mockup"
+date: "2020-04-01"
+description: "Awaryvirus helps parents to better educate their children on what viruses are and to build awareness of proper protection."
+tags: ["Product Design", "Designing for Children", "Healthcare", "Educational Tool"]
+featured_image: "awayvirus.png"
+image_caption: "AwayVirus Learning Tool"
 ---
 
-## Youtube shortcode
-{{< youtube 0RKpf3rK57I >}}
+{{< youtube P-6JP0I1EIU >}}
 
 
 ## 黑白图片，根据 prefers-color-scheme 不同显示不同图片
 
 {{<
 dark-light-image
-light="/img/PD.png"
-dark="/img/AWAYVIRUS_figure.png"
+light="//img/awayvirus.png"
+dark="/img/awayvirus.pngg"
 alt="QCPR SkillReport 设计展示"
-caption="明暗模式下的不同设计展示"
+caption="明暗模式下的不同设计展示" 
 >}}
 
 
 ## Project Overview
+Awaryvirus is an educational tool that helps parents to better educate their pre-school children on what viruses are and to build awareness of proper protection while enhance communication and understanding between parents and pre-school children. The toolincludestwo parts: assembled models and educational cards. Educational cardscan be combined with assembled models. Assembled models can be assembled as:viruses;taps;hand sanitizers; door handles;lift buttons.
 
-This project focused on redesigning the QCPR SkillReport platform to improve user experience and training effectiveness. The platform is used for CPR training assessment and skill reporting.
+## Background
+In the early 2020s, Covid-19 broke out in China and the majority of the country's population worked and studied from home hence everyone's life has been greatly affected by the epidemic. As the epidemic becomes more normalised, developing the right awareness and habits can help prevent infection, so how can we help preschoolers develop awareness and learn effective self-protection methods?
 
-## Design Process
-
-### Research Phase
-- Conducted user interviews with 15 healthcare professionals
-- Analyzed existing platform usage patterns
-- Identified key pain points in the current design
+### Design questions
+-  <strong><span style="orange"> How to properly help your child with self-protection?
+    > Viruses are spread mainly through our contaminated hands. The WHO recommends that we should ensure that our hands are as hygienic as possible and that we should try to avoid touching our faces with hands directly, which will go a long way towards protecting our health.
+- Don't know how to help your child develop a sense of protection?
+    > As a vulnerable group, preschoolers are difficult for parents to explain to them what the virus is and what they can do to protect themselves.
+- Not sure how to communicate with your child when you spend more time with them during home isolation?
+    > What should we do when we have more time to spend with our children? What do we play with them?
 
 ### Design Phase
-- Created user personas and journey maps
-- Developed wireframes and prototypes
-- Conducted usability testing sessions
+In this project there are two groups: parents and preschool children. I used different research methods to discover and understand the problems parents encounter when helping their children to become aware of the importance in protection and the particularities of education for children of pre- school ages. 
+- Design goal 
+    > Learn about the characteristics of preschoolers, the impact of Covid-19 on the lives of preschoolers and the ways parents spend time with their children and the problems they encounter during educational process.How to educate and interest children effectively?
+- 
 
 ### Implementation
 - Collaborated with development team
