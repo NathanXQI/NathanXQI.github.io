@@ -8,6 +8,7 @@ main:
     pdf: "https://dl.acm.org/doi/pdf/10.1145/3706598.3713436"
     //bibtex: "/bibtex/paper1.txt"
     notes: 🏅 Best Paper Honorable Mention Award
+    featured: true
 
   - title: "Parent-Child Joint Media Engagement within HCI: A Scoping Analysis of the Research Landscape"
     titleURL: "https://dl.acm.org/doi/10.1145/3613904.3642307"
