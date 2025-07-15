@@ -1,18 +1,20 @@
 main:
-  - title: "Participatory Design in Human-Computer Interaction: Cases, Characteristics, and Lessons"
-    titleURL: "https://dl.acm.org/doi/10.1145/3706598.3713436"
-    authors: "**Xiang Qi,** Junnan Yu"
-    conference: "In Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems <strong>(CHI ’25)</strong>, May. 2025."
-    conference_short: "CHI"
-    image: "/img/PD.jpg"
-    pdf: "https://dl.acm.org/doi/pdf/10.1145/3706598.3713436"
-    //bibtex: "/bibtex/paper1.txt"
+  - title: 'Participatory Design in Human-Computer Interaction: Cases, Characteristics, and Lessons'
+    titleURL: 'https://dl.acm.org/doi/10.1145/3706598.3713436'
+    authors: '**Xiang Qi,** Junnan Yu'
+    conference: "In Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems <strong>(CHI '25)</strong>, May. 2025."
+    conference_short: 'CHI'
+    image: '/img/PD.jpg'
+    pdf: 'https://dl.acm.org/doi/pdf/10.1145/3706598.3713436'
+    # bibtex: "/bibtex/paper1.txt"
     notes: 🏅 Best Paper Honorable Mention Award
+    featured: true
 
-  - title: "Parent-Child Joint Media Engagement within HCI: A Scoping Analysis of the Research Landscape"
-    titleURL: "https://dl.acm.org/doi/10.1145/3613904.3642307"
-    authors: "Junnan Yu, **Xiang Qi** & Siqi Yang"
-    conference: "In Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems <strong>(CHI ’24)</strong>, May. 2024."
-    conference_short: "CHI"
-    image: "/img/JME_figure.png"
-    pdf: "https://dl.acm.org/doi/pdf/10.1145/3613904.3642307"
+  - title: 'Parent-Child Joint Media Engagement within HCI: A Scoping Analysis of the Research Landscape'
+    titleURL: 'https://dl.acm.org/doi/10.1145/3613904.3642307'
+    authors: 'Junnan Yu, **Xiang Qi** & Siqi Yang'
+    conference: "In Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems <strong>(CHI '24)</strong>, May. 2024."
+    conference_short: 'CHI'
+    image: '/img/JME_figure.png'
+    pdf: 'https://dl.acm.org/doi/pdf/10.1145/3613904.3642307'
+    featured: false
