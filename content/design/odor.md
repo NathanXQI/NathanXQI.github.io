@@ -1,5 +1,5 @@
 ---
-title: "Web Platform Dashboard"
+title: "Odor"
 layout: "single-detail"
 date: "2023-01-01"
 description: "Dashboard design for a data analytics platform with complex data visualization and user interaction patterns."
@@ -13,6 +13,8 @@ image_caption: "Data analytics dashboard interface"
 Designed a comprehensive web dashboard for a data analytics platform that helps businesses visualize complex datasets, track key performance indicators, and make data-driven decisions.
 
 ## Design Objectives
+
+![im](/img/AWAYVIRUS_figure.png)
 
 ### Primary Goals
 - Simplify complex data visualization

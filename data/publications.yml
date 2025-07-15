@@ -17,6 +17,7 @@ main:
     conference_short: "CHI"
     image: "/img/JME_figure.png"
     pdf: "https://dl.acm.org/doi/pdf/10.1145/3613904.3642307"
+    featured: true
 
   - title: "Awayvirus: A Playful and Tangible Approach to Improve Children's Hygiene Habits in Family Education"
     titleURL: "https://link.springer.com/chapter/10.1007/978-3-031-42283-6_10"

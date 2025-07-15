@@ -1,5 +1,5 @@
 ---
-title: "Mobile App Design"
+title: "Reminder"
 layout: "single-detail"
 date: "2023-01-01"
 description: "User interface design for a mobile healthcare application focusing on patient monitoring and data visualization."

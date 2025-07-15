@@ -1,5 +1,5 @@
 ---
-title: "t"
+title: "techart"
 layout: "single-detail"
 date: "2020-04-01"
 description: "Awaryvirus helps parents to better educate their children on what viruses are and to build awareness of proper protection."
