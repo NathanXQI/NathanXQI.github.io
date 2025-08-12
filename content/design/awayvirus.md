@@ -46,7 +46,7 @@ By interviewing parents from diverse backgrounds, I sought to understand how dif
 
 ### Ideation
 After the design ideation phase, I developed four distinct design concepts: Daily Objects Building Blocks, Voice Alert Wristband, Virus Clay, and Educational Puzzles, Books, and Whiteboard. I then evaluated each concept, analyzing their respective strengths and weaknesses.
-![im](/img/awayvirus__V4.jpg)
+![im](/img/awayvirus__V3.5.jpg)
 I then iterated on these initial concepts, combining the strengths of each to refine them into three final design proposals. After evaluating the advantages and limitations of each, I ultimately selected Concept 1 — a modular educational toy for children — as the final design direction.
 ![im](/img/awayvirus__V4.jpg)
 ## Key Features
