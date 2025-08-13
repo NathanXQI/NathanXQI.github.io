@@ -4,7 +4,7 @@ layout: "single-detail"
 date: "2020-04-01"
 description: "Awaryvirus helps parents to better educate their children on what viruses are and to build awareness of proper protection."
 tags: ["Product Design", "Designing for Children", "Healthcare", "Educational Tool"]
-featured_image: "/img/awayvirus_V1.jpg"
+featured_image: "/img/awayvirus_V1.5.jpg"
 image_caption: "AwayVirus Learning Tool"
 ---
 
@@ -49,6 +49,9 @@ After the design ideation phase, I developed four distinct design concepts: Dail
 ![im](/img/awayvirus__V3.5.jpg)
 I then iterated on these initial concepts, combining the strengths of each to refine them into three final design proposals. After evaluating the advantages and limitations of each, I ultimately selected Concept 1 — a modular educational toy for children — as the final design direction.
 ![im](/img/awayvirus__V4.jpg)
+By combining the strengths of the three schemes, I selected the most effective elements to form the final design concept.
+![im](/img/awayvirus_V5.jpg)
+
 ## Key Features
 
 - **Intuitive Dashboard**: Simplified navigation and clear data visualization
