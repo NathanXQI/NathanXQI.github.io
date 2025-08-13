@@ -4,8 +4,7 @@ layout: "single-detail"
 date: "2020-04-01"
 description: "Awaryvirus helps parents to better educate their children on what viruses are and to build awareness of proper protection."
 tags: ["Product Design", "Designing for Children", "Healthcare", "Educational Tool"]
-featured_image: "/img/awayvirus_V1.5.jpg"
-image_caption: "AwayVirus Learning Tool"
+featured_image: "/img/awayvirus_V1.5.1.jpg"
 ---
 
 {{< youtube P-6JP0I1EIU >}}
@@ -14,6 +13,10 @@ image_caption: "AwayVirus Learning Tool"
 
 ## Project Overview
 Awaryvirus is an educational tool designed to help parents teach their preschool children about viruses and raise awareness of proper protective measures, while also enhancing communication and understanding between them. The tool consists of two components: assembled models and educational cards, which can be used together. The assembled models can be configured to represent various objects, including viruses, taps, hand sanitizers, door handles, and lift buttons.
+
+## From Play to Protection
+The experience begins with assembling playful block models of everyday objects and viruses, encouraging exploration through touch and creativity. Children then engage with colorful cards and sounds to discover how viruses spread and how to protect themselves. The journey ends with building water tap and hand sanitizer models, transforming learning into lasting handwashing habits.
+![im](/img/awayvirus_V9.jpg)
 
 ## Background
 In the early 2020s, Covid-19 broke out, forcing much of the population to work and study from home. Daily life was profoundly affected by the epidemic. As Covid-19 became a normalized part of life, cultivating the right awareness and habits proved essential in preventing infection. This raises an important question: how can we help preschoolers develop awareness and learn effective self-protection methods?
@@ -52,24 +55,17 @@ I then iterated on these initial concepts, combining the strengths of each to re
 By combining the strengths of the three schemes, I selected the most effective elements to form the final design concept.
 ![im](/img/awayvirus_V5.jpg)
 
-## Key Features
+### Design concept
+This educational tool helps children develop awareness of protection and hygiene habits by assembling everyday objects and virus models. Using educational cards and interactive sounds, children learn about self-protection—for example, understanding how viruses can attach to objects by placing viral spikes on a door handle model
+![im](/img/awayvirus_V6.jpg)
 
-- **Intuitive Dashboard**: Simplified navigation and clear data visualization
-- **Real-time Feedback**: Immediate performance indicators during training
-- **Progress Tracking**: Comprehensive skill development monitoring
-- **Mobile Responsive**: Optimized for tablets and mobile devices
+### Prototype
+I created test models through three trials. First, I tested different silicone hardness levels to ensure the spikes’ safety. I then developed an audible alert module and a wooden prototype for later user testing
+![im](/img/awayvirus_V10.jpg)
+![im](/img/awayvirus_V7.jpg)
 
-## Results
+## User test
+The tool has three main functions: teaching the basics of epidemic prevention and control through cards; showing how viruses can harm the body by attaching viral spikes to everyday objects; and guiding children to learn proper handwashing by assembling models of water taps and hand sanitizer
+![im](/img/awayvirus_V8.jpg)
 
-The redesigned platform showed:
-- 40% improvement in user task completion rates
-- 60% reduction in training time
-- 85% user satisfaction rating
-- Increased engagement across all user groups
-
-## Technologies Used
-
-- Figma for design and prototyping
-- Adobe Creative Suite for visual assets
-- Protopie for interactive prototypes
-- User testing tools for validation
+This project transforms abstract epidemic prevention concepts into playful, hands-on learning experiences. By combining assembly play, interactive learning, and practical hygiene training, it empowers children to understand protection, build healthy habits, and carry them into everyday life
