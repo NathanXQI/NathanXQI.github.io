@@ -3,7 +3,7 @@ title: "Scent Memory Insurance"
 layout: "single-detail"
 date: "2019-04-01"
 description: "A scent-based memory preservation service that captures and amplifies early childhood aromas to strengthen deep memories and enrich emotional well-being"
-tags: ["Speculative Design", "Scent preservation", “Emotional wellness”, "Scent preservation"]
+tags: ["Speculative Design", "Product Design", "Scent preservation", "Emotional wellness", "Scent preservation"]
 featured_image: "/img/smellmemory_1.jpg"
 ---
 
