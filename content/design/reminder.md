@@ -47,4 +47,8 @@ In the context of home living during an epidemic, efficiency-first screen remind
 
 ![im](/img/reminder_10.jpg)
 
+![im](/img/reminder_11.jpg)
+
+![im](/img/reminder_12.jpg)
+
 This project reimagines how information can be delivered in the home by shifting from screen-based alerts to tangible, hands-on interactions. Through repurposing everyday objects, users not only receive meaningful reminders but also engage in creative making that strengthens their connection to the physical world. By reducing reliance on constant screen notifications, the design promotes healthier digital habits, fosters emotional connections, and enhances overall well-being—especially in the context of home living during an epidemic
