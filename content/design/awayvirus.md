@@ -2,7 +2,7 @@
 title: "AwayVirus"
 layout: "single-detail"
 date: "2020-04-01"
-description: "Awaryvirus helps parents to better educate their children on what viruses are and to build awareness of proper protection."
+description: "Awaryvirus is an educational tool that uses assembled models and cards to help parents teach preschoolers about viruses, protective measures, and healthy communication"
 tags: ["Product Design", "Designing for Children", "Healthcare", "Educational Tool"]
 featured_image: "/img/awayvirus_V1.5.1.jpg"
 ---

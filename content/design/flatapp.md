@@ -1,15 +1,14 @@
 ---
-title: "租友寓"
+title: "租友寓 RentMate"
 layout: "single-detail"
 date: "2023-06-01"
-description: "Awaryvirus helps parents to better educate their children on what viruses are and to build awareness of proper protection."
-tags: ["Product Design", "Designing for Children", "Healthcare", "Educational Tool"]
+description: "A smart roommate-matching and rental platform that combines algorithmic compatibility, trusted listings, and community interaction to make finding the right roommate safer and faster"
+tags: ["Interaction Design", "Application Design", "Community Interaction", "Roommate Matching"]
 featured_image: "/img/flatsapp_1.jpg"
 ---
 
 ## Project Overview 
-Awaryvirus is an educational tool that helps parents to better educate their pre-school children on what viruses are and to build awareness of proper protection while enhance communication and understanding between parents and pre-school children. The toolincludestwo parts: assembled models and educational cards. Educational cardscan be combined with assembled models. Assembled models can be assembled as:viruses;taps;hand sanitizers; door handles;lift buttons.
-
+This project, RentMate, is a rental and roommate-matching platform designed to help recent graduates and young professionals quickly, accurately, and safely find suitable roommates. By combining algorithmic matching, customizable filters, local rental rankings, and community interaction features, it addresses the challenges of messy rental information, fake listings, and difficulty assessing compatibility. The service also offers direct communication channels, identity verification, and location-based recommendations, making the process of finding a roommate and securing housing more efficient, transparent, and secure
 ![im](/img/flatsapp_2.jpg)
 
 ![im](/img/flatsapp_3.jpg)

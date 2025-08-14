@@ -1,7 +1,7 @@
 ---
 title: "Odor"
 layout: "single-detail"
-date: "2023-01-01"
+date: "2021-01-01"
 description: "Odor is a conceptual product that uses scent to reveal environmental information beyond sight, hearing, and touch"
 tags: ["Wearable Device ", "Interaction Design", "Product Design"]
 featured_image: "/img/odor_1.jpg"
