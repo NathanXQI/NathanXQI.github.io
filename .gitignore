@@ -4,3 +4,4 @@ orgpost/0001-draft.org
 # Temporary lock file while building
 /.hugo_build.lock
 hugo.exe
+.DS_Store

@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.Language.Lang }}">
+  <head>
+    {{ partial "head.html" . }}
+  </head>
+  <body class="design-body">
+    {{ partial "navbar.html" . }}
+
+    <div class="design-page">
+      <div class="design-header">
+        <h1>Design Works</h1>
+      </div>
+
+      <!-- Design Works Grid -->
+      <div class="design-content">
+        <div class="design-grid">
+          {{ range (where .Site.Pages "Section" "design") }} {{ if ne .File.BaseFileName "_index" }}
+          <a href="{{ .RelPermalink }}" class="design-item-link">
+            <div class="design-item">
+              <div class="design-info">
+                <div class="design-meta">
+                  <span class="design-category">{{ .Title }}</span>
+                  <span class="design-year">{{ .Date.Format "2006" }}</span>
+                </div>
+                <div class="design-description">
+                  {{ if gt (len .Params.description) 140 }} {{ substr .Params.description 0 140
+                  }}... {{ else }} {{ .Params.description }} {{ end }}
+                </div>
+                <div class="design-tags">
+                  {{ range .Params.tags }}
+                  <span class="tag">{{ . }}</span>
+                  {{ end }}
+                </div>
+              </div>
+              <img src="{{ .Params.featured_image }}" alt="{{ .Title }}" class="design-image" />
+            </div>
+          </a>
+          {{ end }} {{ end }}
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

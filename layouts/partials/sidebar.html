@@ -14,19 +14,19 @@
   rel="noopener"
   target="_blank"
 >
-  <h4 style="color: #545353;">{{ . }}</h4>
+  <h4 style="color: #545353">{{ . }}</h4>
 </a>
 {{ end }} {{ with .Site.Params.email }}
-<a href="mailto:{{ . }}" class="email" style="color: #6d6d6d;"><email>{{ . }}</email></a>
+<a href="mailto:{{ . }}" class="email" style="color: #6d6d6d"><email>{{ . }}</email></a>
 {{ end }}
-<br>
-<br>
+<br />
+<br />
 
 <div class="social-icons">
   {{ with .Site.Params.google_scholar }}
   <a href="{{ . }}" target="_blank">
-    <i class="ai ai-google-scholar" style="font-size: 1.2rem"></i
-  ></a>
+    <i class="ai ai-google-scholar" style="font-size: 1.2rem"></i>
+  </a>
   {{ end }} {{ with .Site.Params.github_link }}
   <a href="{{ . }}" target="_blank"><i class="fab fa-github"></i></a>
   {{ end }} {{ with .Site.Params.linkedin }}

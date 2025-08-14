@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.Language.Lang }}">
+  <head>
+    {{ partial "head.html" . }}
+  </head>
+  <body>
+    {{ partial "navbar.html" . }}
+    <div class="wrapper">
+      {{ if .IsHome }}
+      <header>{{ partial "sidebar.html" . }}</header>
+      {{ end }}
+      <section>{{ block "main" . }}{{ end }}</section>
+      {{ if .IsHome }}
+      <footer>{{ partial "footer.html" . }}</footer>
+      {{ end }}
+    </div>
+  </body>
+</html>
