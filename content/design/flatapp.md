@@ -34,7 +34,7 @@ This project, RentMate, is a rental and roommate-matching platform designed to h
 
 ![im](/img/flatsapp_12.jpg)
 
-![im](/img/flatsapp_13.jpg)
+![im](/img/flatsapp_13.1.jpg)
 
 ![im](/img/flatsapp_14.jpg)
 
