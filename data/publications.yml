@@ -1,4 +1,20 @@
 main:
+  - title: "Moments That Matter: Co-designing Just-in-Time Support for Disordered Eating Behaviors"
+    titleURL: "https://dl.acm.org/doi/full/10.1145/3772318.3791695"
+    authors: "Minhui Liang, **Xiang Qi,** Junnan Yu, Yuhan Luo"
+    conference: "In Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems <strong>(CHI '26)</strong>, April. 2026."
+    conference_short: "CHI"
+    pdf: "https://dl.acm.org/doi/epdf/10.1145/3772318.3791695"
+
+  - title: "Design Guidelines for Parent-Child Joint Media Engagement [In Press]"
+    titleURL: "https://www.littledesign.org/wp-content/uploads/2026/05/JME_Guideline_CSCW26.pdf"
+    authors: "**Xiang Qi**, Junnan Yu"
+    conference: "Proc. ACM Hum.-Comput. Interact. 10, 6, Article CSCW070 (October 2026)"
+    conference_short: "CSCW"
+    image: "/img/JMEGUIDE_figure-2.jpg"
+    pdf: "https://www.littledesign.org/wp-content/uploads/2026/05/JME_Guideline_CSCW26.pdf"
+    featured: true
+
   - title: "Participatory Design in Human-Computer Interaction: Cases, Characteristics, and Lessons"
     titleURL: "https://dl.acm.org/doi/10.1145/3706598.3713436"
     authors: "**Xiang Qi,** Junnan Yu"
@@ -24,19 +40,3 @@ main:
     conference: "IFIP Conference on Human-Computer Interaction <strong>(INTERACT '23)</strong>, Aug. 2023."
     conference_short: "INTERACT"
     pdf: "https://link.springer.com/chapter/10.1007/978-3-031-42283-6_10"
-    
-  - title: "Moments That Matter: Co-designing Just-in-Time Support for Disordered Eating Behaviors"
-    titleURL: "https://dl.acm.org/doi/full/10.1145/3772318.3791695"
-    authors: "Minhui Liang, **Xiang Qi,** Junnan Yu, Yuhan Luo"
-    conference: "In Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems <strong>(CHI '26)</strong>, April. 2026."
-    conference_short: "CHI"
-    pdf: "https://dl.acm.org/doi/epdf/10.1145/3772318.3791695"
-
-  - title: "Design Guidelines for Parent-Child Joint Media Engagement [In Press]"
-    titleURL: "https://www.littledesign.org/wp-content/uploads/2026/05/JME_Guideline_CSCW26.pdf"
-    authors: "**Xiang Qi**, Junnan Yu"
-    conference: "Proc. ACM Hum.-Comput. Interact. 10, 6, Article CSCW070 (October 2026)"
-    conference_short: "CSCW"
-    image: "/img/JMEGUIDE_figure-2.jpg"
-    pdf: "https://www.littledesign.org/wp-content/uploads/2026/05/JME_Guideline_CSCW26.pdf"
-    featured: true
