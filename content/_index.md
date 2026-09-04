@@ -9,7 +9,7 @@ I’m a third-year Ph.D. student in [Design](https://www.polyu.edu.hk/sd/) at [T
 ## Research Interests
 
 - **Responsible AI Design for Children**
-- **Children's Well-being:** Healthcare-related Education
+- **Translational Research**
 - **Design Methods:** Participatory Design and Co-Design
 
 ## Education
