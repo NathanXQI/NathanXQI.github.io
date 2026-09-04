@@ -15,7 +15,7 @@ main:
     authors: "Junnan Yu, **Xiang Qi** & Siqi Yang"
     conference: "In Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems <strong>(CHI '24)</strong>, May. 2024."
     conference_short: "CHI"
-    image: "/img/JME_figure.png"
+    image: "/img/JMEGUIDE_figure_2.jpg"
     pdf: "https://dl.acm.org/doi/pdf/10.1145/3613904.3642307"
 
   - title: "Awayvirus: A Playful and Tangible Approach to Improve Children's Hygiene Habits in Family Education"
@@ -37,6 +37,6 @@ main:
     authors: "**Xiang Qi**, Junnan Yu"
     conference: "Proc. ACM Hum.-Comput. Interact. 10, 6, Article CSCW070 (October 2026)"
     conference_short: "CSCW"
-    image: "/img/JME_figure.png"
+    image: "/img/JMEGUIDE_figure_2.jpg"
     pdf: "https://www.littledesign.org/wp-content/uploads/2026/05/JME_Guideline_CSCW26.pdf"
     featured: true
