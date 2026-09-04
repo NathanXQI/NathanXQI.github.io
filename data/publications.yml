@@ -25,7 +25,7 @@ main:
     conference_short: "INTERACT"
     pdf: "https://link.springer.com/chapter/10.1007/978-3-031-42283-6_10"
     
- - title: "Moments That Matter: Co-designing Just-in-Time Support for Disordered Eating Behaviors"
+  - title: "Moments That Matter: Co-designing Just-in-Time Support for Disordered Eating Behaviors"
     titleURL: "https://dl.acm.org/doi/full/10.1145/3772318.3791695"
     authors: "Minhui Liang, **Xiang Qi,** Junnan Yu, Yuhan Luo"
     conference: "In Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems <strong>(CHI '26)</strong>, April. 2026."
@@ -39,4 +39,4 @@ main:
     conference_short: "CSCW"
     image: "/img/JME_figure.png"
     pdf: "https://www.littledesign.org/wp-content/uploads/2026/05/JME_Guideline_CSCW26.pdf"
-        featured: true
+    featured: true
