@@ -6,13 +6,13 @@ main:
     conference_short: "CHI"
     pdf: "https://dl.acm.org/doi/epdf/10.1145/3772318.3791695"
 
-  - title: "Design Guidelines for Parent-Child Joint Media Engagement [In Press]"
-    titleURL: "https://www.littledesign.org/wp-content/uploads/2026/05/JME_Guideline_CSCW26.pdf"
+  - title: "Design Guidelines for Parent-Child Joint Media Engagement"
+    titleURL: "https://dl.acm.org/doi/10.1145/3816918#Bib0088"
     authors: "**Xiang Qi**, Junnan Yu"
     conference: "Proc. ACM Hum.-Comput. Interact. 10, 6, Article CSCW070 (October 2026)"
     conference_short: "CSCW"
     image: "/img/JMEGUIDE_figure-2.jpg"
-    pdf: "https://www.littledesign.org/wp-content/uploads/2026/05/JME_Guideline_CSCW26.pdf"
+    pdf: "https://dl.acm.org/doi/epdf/10.1145/3816918"
     featured: true
 
   - title: "Participatory Design in Human-Computer Interaction: Cases, Characteristics, and Lessons"
